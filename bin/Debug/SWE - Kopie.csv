@@ -1,0 +1,12 @@
+Geschlecht,Alter,Ort Kunde,Sendung innerhalb von 3 Tagen ausgeliefert,Sendung enthält hauptsächlich,Gesamtwert der Sendung(e),Folgekauf innerhalb von 3 Monaten
+m,42,Dorf,j,Musik,ab100,j
+f,17,Dorf,n,Filme,bis50,n
+f,29,Dorf,n,Filme,50bis100,n
+f,24,Stadt,n,Bücher,bis50,j
+m,32,Dorf,j,Bücher,50bis100,n
+m,47,Stadt,n,Musik,bis50,n
+m,62,Stadt,n,Musik,ab100,m
+f,26,Dorf,j,Bücher,50bis100,j
+f,42,Dorf,j,Bücher,ab100,n
+f,33,Stadt,j,Filme,bis50,m
+m,18,Stadt,n,Filme,50bis100,j

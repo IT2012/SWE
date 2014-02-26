@@ -1,0 +1,15 @@
+Outlook;Temperature;Humidity;Wind;PlayTennis
+Sunny;Hot;High;Weak;n
+Sunny;Hot;High;Strong;n
+Overcast;Hot;High;Weak;j
+Rain;Mild;High;Weak;j
+Rain;Cool;Normal;Weak;j
+Rain;Cool;Normal;Strong;n
+Overcast;Cool;Normal;Strong;j
+Sunny;Mild;High;Weak;n
+Sunny;Cool;Normal;Weak;j
+Rain;Mild;Normal;Weak;j
+Sunny;Mild;Normal;Strong;j
+Overcast;Mild;High;Strong;j
+Overcast;Hot;Normal;Weak;j
+Rain;Mild;High;Strong;n

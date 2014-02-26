@@ -1,0 +1,555 @@
+Nr.;Seminar Nr;Seminarteil;Lfd Nr;Beschreibung;Veranstaltungsort;Dauer (Tage);Startdatum;Enddatum;Uhrzeit von;Uhrzeit bis;Seminarpreis;Materialkosten;PensionskostenIntern;SonstigeKosten
+10403.1113.1;2013-10403;1;11;JuniorBanking (3) "Markt- und Kundenorientierung im Wertpapiergeschäft" (eLearning);009981;5;28.10.13;01.11.13;09:00;16:00;355;0;0;0
+10403.1213.1;2013-10403;1;12;JuniorBanking (3) "Markt- und Kundenorientierung im Wertpapiergeschäft" (eLearning);081636;5;04.11.13;08.11.13;09:00;16:00;355;0;0;0
+10403.1313.1;2013-10403;1;13;JuniorBanking (3) "Markt- und Kundenorientierung im Wertpapiergeschäft" (eLearning);121930;5;11.11.13;15.11.13;09:00;16:00;355;0;0;0
+10403.1413.1;2013-10403;1;14;JuniorBanking (3) "Markt- und Kundenorientierung im Wertpapiergeschäft" (eLearning);009981;5;18.11.13;22.11.13;09:00;16:00;355;0;0;0
+10404.1113.1;2013-10404;1;11;JuniorBanking (4) "Markt- und Kundenorientierung im Privatkreditgeschäft" (eLearning);009981;5;26.08.13;30.08.13;09:00;16:00;355;0;0;0
+10404.1313.1;2013-10404;1;13;JuniorBanking (4) "Markt- und Kundenorientierung im Privatkreditgeschäft" (eLearning);121930;5;18.11.13;22.11.13;09:00;16:00;355;0;0;0
+10405.0813.1;2013-10405;1;8;JuniorBanking (5) "Markt- und Kundenorientierung im Auslands- und im Firmenkundengeschäft" (eLearning);009986;5;19.08.13;23.08.13;09:00;16:00;355;0;0;0
+10405.1313.1;2013-10405;1;13;JuniorBanking (5) "Markt- und Kundenorientierung im Auslands- und im Firmenkundengeschäft" (eLearning);121930;5;07.10.13;11.10.13;09:00;16:00;355;0;0;0
+10405.1413.1;2013-10405;1;14;JuniorBanking (5) "Markt- und Kundenorientierung im Auslands- und im Firmenkundengeschäft" (eLearning);121930;5;14.10.13;18.10.13;09:00;16:00;355;0;0;0
+10405.1613.1;2013-10405;1;16;JuniorBanking (5) "Markt- und Kundenorientierung im Auslands- und im Firmenkundengeschäft" (eLearning);009981;5;16.09.13;20.09.13;09:00;16:00;355;0;0;0
+10406.1413.1;2013-10406;1;14;JuniorBanking (6) "Grundlagen Rechnungswesen und Banksteuerung" (eLearning);009981;5;14.10.13;18.10.13;09:00;16:00;355;0;0;0
+10406.1513.1;2013-10406;1;15;JuniorBanking (6) "Grundlagen Rechnungswesen und Banksteuerung" (eLearning);121930;5;14.10.13;18.10.13;09:00;16:00;355;0;0;0
+10407.1013.1;2013-10407;1;10;JuniorBanking (7a) "Wirtschafts- und sozialpolitische Grundlagen und Simulation einer schriftlichen Abschlussprüfung" (eLearning);081636;3;16.10.13;18.10.13;09:00;16:00;213;0;0;0
+10407.1213.1;2013-10407;1;12;JuniorBanking (7a) "Wirtschafts- und sozialpolitische Grundlagen und Simulation einer schriftlichen Abschlussprüfung" (eLearning);121930;3;21.10.13;23.10.13;09:00;16:00;213;0;0;0
+10407.1313.1;2013-10407;1;13;JuniorBanking (7a) "Wirtschafts- und sozialpolitische Grundlagen und Simulation einer schriftlichen Abschlussprüfung" (eLearning);009981;3;23.10.13;25.10.13;09:00;16:00;213;0;0;0
+10407.1413.1;2013-10407;1;14;JuniorBanking (7a) "Wirtschafts- und sozialpolitische Grundlagen und Simulation einer schriftlichen Abschlussprüfung" (eLearning);165088;3;11.11.13;13.11.13;09:00;16:00;213;0;0;0
+10408.0913.1;2013-10408;1;9;JuniorBanking (7b) "Simulation einer mündlichen Abschlussprüfung";009981;3;02.12.13;04.12.13;09:00;17:30;264;0;0;0
+10408.1013.1;2013-10408;1;10;JuniorBanking (7b) "Simulation einer mündlichen Abschlussprüfung";121930;3;02.12.13;04.12.13;09:00;17:30;264;0;0;0
+10408.1213.1;2013-10408;1;12;JuniorBanking (7b) "Simulation einer mündlichen Abschlussprüfung";169929;3;04.12.13;06.12.13;09:00;17:30;264;0;0;0
+10408.1313.1;2013-10408;1;13;JuniorBanking (7b) "Simulation einer mündlichen Abschlussprüfung";121930;3;09.12.13;11.12.13;09:00;17:30;264;0;0;0
+10408.1413.1;2013-10408;1;14;JuniorBanking (7b) "Simulation einer mündlichen Abschlussprüfung";009981;3;09.12.13;11.12.13;09:00;17:30;264;0;0;0
+10408.1513.1;2013-10408;1;15;JuniorBanking (7b) "Simulation einer mündlichen Abschlussprüfung";081636;3;11.12.13;13.12.13;09:00;17:30;264;0;0;0
+10408.1613.1;2013-10408;1;16;JuniorBanking (7b) "Simulation einer mündlichen Abschlussprüfung";009981;3;16.12.13;18.12.13;09:00;17:30;264;0;0;0
+20101.0113.2;2013-20101;2;1;Webinar zum VR-Börsenspiel;;0,5;18.10.13;18.10.13;10:00;11:30;83;0;0;0
+20101.0113.3;2013-20101;3;1;Webinar zum VR-Börsenspiel;;0,5;03.01.14;03.01.14;10:00;11:30;83;0;0;0
+20507.0113.1;2013-20507;1;1;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 1. Teil: Eigenmittel (09:30 - 11:00 Uhr);161337;0,2;16.10.13;16.10.13;09:30;11:00;129;0;0;0
+20507.0213.1;2013-20507;1;2;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 1. Teil: Eigenmittel (13:30 - 15:00 Uhr);161337;0,2;22.10.13;22.10.13;13:30;15:00;129;0;0;0
+20507.0313.1;2013-20507;1;3;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 1. Teil: Eigenmittel (16:00 - 17:30);161337;0,2;18.10.13;18.10.13;16:00;17:30;129;0;0;0
+20508.0113.1;2013-20508;1;1;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 2. Teil: Kreditmeldewesen (13:30 - 15:00 Uhr);161337;0,2;16.10.13;16.10.13;13:30;15:00;129;0;0;0
+20508.0213.1;2013-20508;1;2;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 2. Teil: Kreditmeldewesen (09:30 - 11:00 Uhr);161337;0,2;22.10.13;22.10.13;09:30;11:00;129;0;0;0
+20508.0313.1;2013-20508;1;3;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 2. Teil: Kreditmeldewesen (16:00-17:30);161337;0,2;23.10.13;23.10.13;16:00;17:30;129;0;0;0
+20509.0113.1;2013-20509;1;1;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick 3. Teil: Meldung von Finanzinformationen und Leverage Ratio und EMIR (09:30 -11:00 Uhr);161337;0,2;18.10.13;18.10.13;09:30;11:00;129;0;0;0
+20509.0213.1;2013-20509;1;2;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick 3. Teil: Meldung von Finanzinformationen und Leverage Ratio und EMIR (13:30 - 15:00 Uhr);161337;0,2;23.10.13;23.10.13;13:30;15:00;129;0;0;0
+20509.0313.1;2013-20509;1;3;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick 3. Teil: Meldung von Finanzinformationen und Leverage Ratio und EMIR (16:00-17:30);161337;0,2;16.10.13;16.10.13;16:00;17:30;129;0;0;0
+20510.0113.1;2013-20510;1;1;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 4. Teil: Workshop zur Liquidität, (LCR und NSFR) (13:30 - 15:00 Uhr);161337;0,2;18.10.13;18.10.13;13:30;15:00;129;0;0;0
+20510.0213.1;2013-20510;1;2;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 4. Teil: Workshop zur Liquidität, (LCR und NSFR) (09:30 - 11:00 Uhr);161337;0,2;23.10.13;23.10.13;09:30;11:00;129;0;0;0
+20510.0313.1;2013-20510;1;3;Webinar: VorstandsSpezial: CRR I/CRD IV - Vorschriften im Überblick, 4. Teil: Workshop zur Liquidität, (LCR und NSFR) (16:00 - 17:30);161337;0,2;22.10.13;22.10.13;16:00;17:30;129;0;0;0
+20512.0113.1;2013-20512;1;1;Webinar FATCA - Überblick, aktueller Sachstand und  Handlungserfordernisse (14:30 - 15:30 Uhr);161337;0,1;17.09.13;17.09.13;14:30;15:30;129;0;0;0
+20512.0313.1;2013-20512;1;3;Webinar FATCA - Überblick, aktueller Sachstand und  Handlungserfordernisse (10:00 - 11:30 Uhr);161337;0,1;20.09.13;20.09.13;10:00;11:30;129;0;0;0
+20512.0413.1;2013-20512;1;4;Webinar FATCA - Überblick, aktueller Sachstand und  Handlungserfordernisse (14:30 - 16:00 Uhr);161337;0,1;20.09.13;20.09.13;14:30;16:00;129;0;0;0
+20513.0213.1;2013-20513;1;2;Webinar: Veranstaltungen mit Kunden - rechtlich sicher - Modul 1, 9.30 - 11.00 Uhr;161337;0,2;24.10.13;24.10.13;09:30;11:00;89;0;0;0
+20514.0213.1;2013-20514;1;2;Webinar: Veranstaltungen mit Kunden - rechtlich sicher - Modul 2, 10.00 - 11.30 Uhr;161337;0,2;28.10.13;28.10.13;10:00;11:30;89;0;0;0
+20515.0113.1;2013-20515;1;1;InfoWebinar: Vorstellung des Seminarkonzeptes zu den CRR I /CRD IV - Vorschriften (16:00 - 16:30 Uhr);161337;0,1;29.08.13;29.08.13;16:00;16:30;0;0;0;0
+20516.0113.1;2013-20516;1;1;Die Bank in Social Media Uhrzeit: 13:00 bis 14:30 Uhr;161337;0,2;24.10.13;24.10.13;13:00;14:30;89;0;0;0
+20517.0113.1;2013-20517;1;1;Webinar: Unternehmerisch handeln - Erwartungen und Empfehlungen des Kompass 2014 (10:00 - 11:30 Uhr);161337;0,2;08.11.13;08.11.13;10:00;11:30;89;0;0;0
+20517.0213.1;2013-20517;1;2;Webinar: Unternehmerisch handeln - Erwartungen und Empfehlungen des Kompass 2014 (13:00 - 14:30 Uhr);161337;0,2;08.11.13;08.11.13;13:00;14:30;89;0;0;0
+20517.0313.1;2013-20517;1;3;Webinar: Unternehmerisch handeln - Erwartungen und Empfehlungen des Kompass 2014 (15:00 - 16:30 Uhr);161337;0,2;13.11.13;13.11.13;15:00;16:30;89;0;0;0
+20601.0413.1;2013-20601;1;4;Webinar zum Thema AnsFuG: Sachkundenachweis gemäß õ2 WpHGMaAnzV;161337;0,2;13.11.13;13.11.13;14:00;16:00;189;0;0;0
+20608.0113.1;2013-20608;1;1;InfoWebinar: Konzeptvorstellung ³Umsetzungsbegleitung Projekt KundenFokus 2015", 15.00 - 16.00 Uhr;161337;0,2;09.10.13;09.10.13;15:00;16:00;0;0;0;0
+20608.0213.1;2013-20608;1;2;InfoWebinar: Konzeptvorstellung ³Umsetzungsbegleitung Projekt KundenFokus 2015", 10.00 - 11.00 Uhr;161337;0,2;23.10.13;23.10.13;10:00;11:00;0;0;0;0
+20803.0113.1;2013-20803;1;1;Webinar: Beschwerdemanagement in Arztpraxen (15:00 - 16:30 Uhr);161337;0,2;20.11.13;20.11.13;15:00;16:30;59;0;0;0
+20804.0113.1;2013-20804;1;1;Webinar: Marketing für Arztpraxen (15:00 - 16:30 Uhr);161337;0,2;06.11.13;06.11.13;15:00;16:30;59;0;0;0
+31024.0113.1;2013-31024;1;1;Neue Impulse für den erfahrenen Mitarbeiter in der ServiceBeratung;009981;2;02.09.13;03.09.13;09:00;16:00;395;0;0;0
+31024.0213.1;2013-31024;1;2;Neue Impulse für den erfahrenen Mitarbeiter in der ServiceBeratung;165088;2;14.11.13;15.11.13;09:00;16:00;395;0;0;0
+31040.0113.1;2013-31040;1;1;Trennung und Scheidung aus Sicht der Bank;009981;1;18.10.13;18.10.13;09:00;17:00;215;0;37,94;0
+31050.0213.2;2013-31050;2;2;Banking für Nichtbanker;169929;5;18.11.13;22.11.13;09:00;16:00;675;0;0;0
+31050.0213.3;2013-31050;3;2;Banking für Nichtbanker;169929;2,5;16.12.13;18.12.13;09:00;13:00;337,5;0;0;0
+31100.1613.1;2013-31100;1;16;Kompetenznachweis ServiceBeratung;190629;1;28.06.13;28.06.13;08:30;18:00;535;0;39,5;0
+31100.3113.1;2013-31100;1;31;Kompetenznachweis ServiceBeratung;009981;1;04.12.13;04.12.13;08:30;18:00;535;0;37,94;0
+31100.3213.1;2013-31100;1;32;Kompetenznachweis ServiceBeratung;009981;1;05.12.13;05.12.13;08:30;18:00;535;0;37,94;0
+31100.3313.1;2013-31100;1;33;Kompetenznachweis ServiceBeratung;197383;1;16.12.13;16.12.13;08:30;18:00;535;0;36,39;0
+31100.3413.1;2013-31100;1;34;Kompetenznachweis ServiceBeratung;197383;1;17.12.13;17.12.13;08:30;18:00;535;0;36,39;0
+31100.3513.1;2013-31100;1;35;Kompetenznachweis ServiceBeratung;184189;1;19.12.13;19.12.13;08:30;18:00;535;0;50;0
+31100.3613.1;2013-31100;1;36;Kompetenznachweis ServiceBeratung;184189;1;20.12.13;20.12.13;08:30;18:00;535;0;50;0
+31111.1113.1;2013-31111;1;11;Der erfolgreiche Kundenkontakter (eLearning);199604;5;19.08.13;23.08.13;09:00;16:00;850;0;0;0
+31112.1013.1;2013-31112;1;10;Der erfolgreiche Anlageberater (eLearning);189281;5;26.08.13;30.08.13;09:00;16:00;800;0;0;0
+31112.1113.1;2013-31112;1;11;Der erfolgreiche Anlageberater (eLearning);184189;5;26.08.13;30.08.13;09:00;16:00;800;0;0;0
+31112.1213.1;2013-31112;1;12;Der erfolgreiche Anlageberater (eLearning);165152;5;02.09.13;06.09.13;09:00;16:00;800;0;0;0
+31112.1613.1;2013-31112;1;16;Der erfolgreiche Anlageberater (eLearning);169929;5;28.10.13;01.11.13;09:00;16:00;800;0;0;0
+31112.1713.1;2013-31112;1;17;Der erfolgreiche Anlageberater (eLearning);036978;5;04.11.13;08.11.13;09:00;16:00;800;0;0;0
+31112.2813.1;2013-31112;1;28;Der erfolgreiche Anlageberater (eLearning);121861;5;14.10.13;18.10.13;09:00;16:00;800;0;0;0
+31112.2913.1;2013-31112;1;29;Der erfolgreiche Anlageberater (eLearning);036978;5;09.09.13;13.09.13;09:00;16:00;800;0;0;0
+31113.1413.1;2013-31113;1;14;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);009981;5;21.10.13;25.10.13;09:00;16:00;800;0;0;0
+31113.1513.1;2013-31113;1;15;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);198206;5;04.11.13;08.11.13;09:00;16:00;800;0;0;0
+31113.1613.1;2013-31113;1;16;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);187944;5;04.11.13;08.11.13;09:00;16:00;800;0;0;0
+31113.1713.1;2013-31113;1;17;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);165152;5;11.11.13;15.11.13;09:00;16:00;800;0;0;0
+31113.1813.1;2013-31113;1;18;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);009981;5;11.11.13;15.11.13;09:00;16:00;800;0;0;0
+31113.1913.1;2013-31113;1;19;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);121930;5;18.11.13;22.11.13;09:00;16:00;800;0;0;0
+31113.2013.1;2013-31113;1;20;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);036978;5;18.11.13;22.11.13;09:00;16:00;800;0;0;0
+31113.3013.1;2013-31113;1;30;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);198206;5;02.12.13;06.12.13;09:00;16:00;800;0;0;0
+31113.3113.1;2013-31113;1;31;Der erfolgreiche Kreditberater und Beziehungsmanager (eLearning);187062;5;11.11.13;15.11.13;09:00;16:00;800;0;0;0
+31809.0213.1;2013-31809;1;2;Der Seiten- und Wiedereinsteiger - Fit für den VR-BeraterPass ServiceBeratung;009981;5;07.10.13;11.10.13;09:00;16:00;825;0;0;0
+31811.5913.1;2013-31811;1;59;VR-BeraterPass ServiceBeratung - Update;035499;2;04.11.13;05.11.13;09:00;16:00;300;0;0;0
+31811.6313.1;2013-31811;1;63;VR-BeraterPass ServiceBeratung - Update;009981;2;21.11.13;22.11.13;09:00;16:00;300;0;0;0
+32001.0113.1;2013-32001;1;1;Verkäufertag;036978;1;02.11.13;02.11.13;09:00;16:30;195;0;0;0
+32001.0213.1;2013-32001;1;2;Verkäufertag;184189;1;09.11.13;09.11.13;09:00;16:30;195;0;0;0
+32001.0313.1;2013-32001;1;3;Verkäufertag;121866;1;16.11.13;16.11.13;09:00;16:00;195;0;0;0
+32001.0413.1;2013-32001;1;4;Verkäufertag;121930;1;23.11.13;23.11.13;09:00;16:00;195;0;0;0
+32101.1213.1;2013-32101;1;12;Voraussetzungen für die erfolgreiche Beratung von Privatkunden bei Kapitalanlagen (eLearning);178964;5;07.10.13;11.10.13;09:00;16:00;725;0;0;0
+32102.1213.1;2013-32102;1;12;Beratung in sicherheitsorientierten Kapitalanlagen (eLearning);009981;5;28.10.13;01.11.13;09:00;16:00;725;0;0;0
+32104.1013.1;2013-32104;1;10;Ganzheitliche Beratung von Privatkunden bei Kapitalanlagen - der erfolgreiche Verkauf;036978;5;02.12.13;06.12.13;09:00;16:00;825;0;0;0
+32104.1113.1;2013-32104;1;11;Ganzheitliche Beratung von Privatkunden bei Kapitalanlagen - der erfolgreiche Verkauf;178964;5;02.12.13;06.12.13;09:00;16:00;825;0;0;0
+32104.1213.1;2013-32104;1;12;Ganzheitliche Beratung von Privatkunden bei Kapitalanlagen - der erfolgreiche Verkauf;121930;5;09.12.13;13.12.13;09:00;16:00;825;0;0;0
+32104.1313.1;2013-32104;1;13;Ganzheitliche Beratung von Privatkunden bei Kapitalanlagen - der erfolgreiche Verkauf;163481;5;16.12.13;20.12.13;09:00;16:00;825;0;0;0
+32104.1413.1;2013-32104;1;14;Ganzheitliche Beratung von Privatkunden bei Kapitalanlagen - der erfolgreiche Verkauf;009981;5;16.12.13;20.12.13;09:00;16:00;825;0;0;0
+32104.1913.1;2013-32104;1;19;Ganzheitliche Beratung von Privatkunden bei Kapitalanlagen - der erfolgreiche Verkauf;006585;5;11.11.13;15.11.13;09:00;16:00;825;0;0;0
+32105.0913.1;2013-32105;1;9;Chancenorientiert investieren und Depots strukturieren (eLearning);036978;5;21.10.13;25.10.13;09:00;16:00;775;0;0;0
+32105.1013.1;2013-32105;1;10;Chancenorientiert investieren und Depots strukturieren (eLearning);178964;5;21.10.13;25.10.13;09:00;16:00;775;0;0;0
+32105.1113.1;2013-32105;1;11;Chancenorientiert investieren und Depots strukturieren (eLearning);121930;5;28.10.13;01.11.13;09:00;16:00;775;0;0;0
+32105.1213.1;2013-32105;1;12;Chancenorientiert investieren und Depots strukturieren (eLearning);163481;5;04.11.13;08.11.13;09:00;16:00;775;0;0;0
+32105.1313.1;2013-32105;1;13;Chancenorientiert investieren und Depots strukturieren (eLearning);009981;5;04.11.13;08.11.13;09:00;16:00;775;0;0;0
+32205.0413.1;2013-32205;1;4;Erfolgreich investieren in Beteiligungen, Immobilien und Rohstoffe sowie Nachfolgeplanung;036978;5;14.10.13;18.10.13;09:00;16:00;900;0;0;0
+32206.0313.1;2013-32206;1;3;Umsetzung der VermögensPlanung;178964;5;28.10.13;01.11.13;09:00;16:00;975;0;0;0
+32206.0413.1;2013-32206;1;4;Umsetzung der VermögensPlanung;036978;5;11.11.13;15.11.13;09:00;16:00;975;0;0;0
+32206.0513.1;2013-32206;1;5;Umsetzung der VermögensPlanung;009981;5;18.11.13;22.11.13;09:00;16:00;975;0;0;0
+32290.0113.1;2013-32290;1;1;Upgrade zum VR-VermögensPlaner;009981;3;06.11.13;08.11.13;09:00;16:00;825;0;0;0
+32400.0113.1;2013-32400;1;1;Kompetenznachweis Zertifizierter VR-WertpapierSpezialist;009981;1;31.10.13;31.10.13;08:10;17:00;675;0;37,94;0
+32400.0213.1;2013-32400;1;2;Kompetenznachweis Zertifizierter VR-WertpapierSpezialist;009981;1;01.11.13;01.11.13;08:10;17:00;675;0;37,94;0
+32601.0113.1;2013-32601;1;1;Zertifizierter VR-Financial Consultant Teil I;117990;5;08.04.13;12.04.13;09:00;16:00;1.320;0;0;0
+32601.0113.2;2013-32601;2;1;Zertifizierter VR-Financial Consultant Teil II;117990;5;15.07.13;19.07.13;09:00;16:00;1.320;0;0;0
+32601.0113.3;2013-32601;3;1;Zertifizierter VR-Financial Consultant Teil III;117990;5;17.09.13;21.09.13;09:00;16:00;1.320;0;0;0
+32601.0113.4;2013-32601;4;1;Zertifizierter VR-Financial Consultant Teil IV;117990;5;12.11.13;16.11.13;;16:00;2.800;0;0;0
+32809.0213.1;2013-32809;1;2;Der Seiten- und Wiedereinsteiger - Fit für den VR-BeraterPass FinanzPlanung;009981;5;11.11.13;15.11.13;09:00;16:00;825;0;0;0
+32831.0713.1;2013-32831;1;7;VR-BeraterPass VermögensPlanung - Update;121866;3;10.12.13;12.12.13;09:00;16:00;540;0;0;0
+32841.0313.1;2013-32841;1;3;VR-BeraterPass Financial Consulting - Update;178964;3;09.10.13;11.10.13;09:00;16:00;630;0;0;0
+32841.0413.1;2013-32841;1;4;VR-BeraterPass Financial Consulting - Update;009981;3;28.10.13;30.10.13;09:00;16:00;630;0;0;0
+33011.0113.1;2013-33011;1;1;Fachtagung Wohnungsbaufinanzierung;158509;1,5;04.11.13;05.11.13;09:00;13:00;450;0;0;0
+33011.0213.1;2013-33011;1;2;Fachtagung Wohnungsbaufinanzierung;121866;1,5;06.11.13;07.11.13;09:00;13:00;450;0;0;0
+33011.0313.1;2013-33011;1;3;Fachtagung Wohnungsbaufinanzierung;009981;1,5;19.11.13;20.11.13;09:00;13:00;450;0;0;0
+33011.0413.1;2013-33011;1;4;Fachtagung Wohnungsbaufinanzierung;190629;1,5;21.11.13;22.11.13;09:00;13:00;450;0;0;0
+33011.0513.1;2013-33011;1;5;Fachtagung Wohnungsbaufinanzierung;032755;1,5;26.11.13;27.11.13;09:00;13:00;450;0;0;0
+33100.0713.1;2013-33100;1;7;Kompetenznachweis VR-WohnbaufinanzierungsBerater;190629;1;19.09.13;19.09.13;08:00;17:00;610;0;39,5;0
+33100.0813.1;2013-33100;1;8;Kompetenznachweis VR-WohnbaufinanzierungsBerater;009981;1;11.12.13;11.12.13;08:00;17:00;610;0;37,94;0
+33100.0913.1;2013-33100;1;9;Kompetenznachweis VR-WohnbaufinanzierungsBerater;121930;1;19.12.13;19.12.13;08:00;17:00;610;0;0;0
+33102.0513.1;2013-33102;1;5;Wohnbaufinanzierung;184189;5;14.10.13;18.10.13;09:00;16:00;800;0;0;0
+33103.0413.1;2013-33103;1;4;Individuelle Beratung von komplexen Wohnbaufinanzierungen für den besonders anspruchsvollen Kunden;009981;4;12.11.13;15.11.13;09:00;16:00;640;0;0;0
+33103.0513.1;2013-33103;1;5;Individuelle Beratung von komplexen Wohnbaufinanzierungen für den besonders anspruchsvollen Kunden;121930;4;03.12.13;06.12.13;09:00;16:00;640;0;0;0
+33104.0513.1;2013-33104;1;5;Baufinanzierung Verkaufs- und Beratungsgespräche;121930;3;28.10.13;30.10.13;09:00;16:00;585;0;0;0
+33104.0613.1;2013-33104;1;6;Baufinanzierung Verkaufs- und Beratungsgespräche;184189;3;27.11.13;29.11.13;09:00;16:00;585;0;0;0
+34001.0113.1;2013-34001;1;1;Marktunterstützung Geld- und Kapitalanlage;009981;5;04.11.13;08.11.13;09:00;16:00;1.025;0;0;0
+34006.0113.1;2013-34006;1;1;Nachlassbearbeitung - Einsteiger;178964;1;21.10.13;21.10.13;09:00;16:30;200;0;44,54;0
+34007.0113.1;2013-34007;1;1;Nachlassbearbeitung - Profis;178964;1;22.10.13;22.10.13;09:00;16:00;200;0;44,54;0
+34100.0313.1;2013-34100;1;3;Kompetenznachweis Sachbearbeiter Kontoführung/ Mitgliederverwaltung;009981;1;02.12.13;02.12.13;08:00;17:00;435;0;37,94;0
+34101.0313.1;2013-34101;1;3;Kontoführung allgemein und Kontoführung bei Tod eines Kunden;009981;3,5;28.10.13;31.10.13;09:00;12:30;577,5;0;0;0
+34102.0313.1;2013-34102;1;3;Mitgliederverwaltung;009981;1,5;31.10.13;01.11.13;13:00;16:00;247,5;0;0;0
+34201.0213.1;2013-34201;1;2;Aufsichtsrecht in der Praxis;009981;4;18.11.13;21.11.13;09:00;16:00;780;0;0;0
+34202.0213.1;2013-34202;1;2;Wertpapierfachwissen;009981;3;25.11.13;27.11.13;09:00;16:00;585;0;0;0
+34203.0213.1;2013-34203;1;2;Vertriebsorganisation und Qualitätsmanagement;009981;2;28.11.13;29.11.13;09:00;16:00;390;0;0;0
+34204.0313.1;2013-34204;1;3;Das neue Selbstverständnis: Mittler im Spannungsverhältnis Bank - Kunde - Mitarbeiter und Aufsicht;009981;2;04.12.13;05.12.13;09:00;16:00;390;0;0;0
+34205.0313.1;2013-34205;1;3;WP2 für Compliance-Beauftragte;009981;1;06.12.13;06.12.13;09:00;16:00;195;0;37,94;0
+35008.0113.1;2013-35008;1;1;Spezialfälle bei der Bewertung privater Immobilien;006242;2;23.10.13;24.10.13;09:00;16:00;490;0;0;0
+35008.0213.1;2013-35008;1;2;Spezialfälle bei der Bewertung privater Immobilien;174729;2;06.11.13;07.11.13;09:00;16:00;490;0;0;0
+35013.0313.1;2013-35013;1;3;Rechtssicherer Umgang mit Sicherungsgrundschulden;190629;2;21.10.13;22.10.13;09:00;16:00;560;0;0;0
+35100.0213.1;2013-35100;1;2;Kompetenznachweis Marktunterstützung Kredit in der Privatkundenbank;190629;1;04.11.13;04.11.13;08:00;18:00;490;0;39,5;0
+35100.0313.1;2013-35100;1;3;Kompetenznachweis Marktunterstützung Kredit in der Privatkundenbank;009981;1;16.12.13;16.12.13;08:00;18:00;490;0;37,94;0
+35101.0213.1;2013-35101;1;2;Kreditvertrags- und Sicherungsrecht;190629;5;08.04.13;12.04.13;09:00;16:00;800;0;0;0
+35102.0213.1;2013-35102;1;2;Die private Wohnbaufinanzierung;036978;5;09.09.13;13.09.13;09:00;16:00;800;0;0;0
+35102.0313.1;2013-35102;1;3;Die private Wohnbaufinanzierung;009981;5;18.11.13;22.11.13;09:00;16:00;800;0;0;0
+40026.0413.1;2013-40026;1;4;Energievorhaben finanzieren, Kunden binden;184189;2;14.10.13;15.10.13;09:00;16:00;580;0;0;0
+40040.0113.3;2013-40040;3;1;FIT! - Förderprogramm für Zukunftsträger im Firmenkundengeschäft - Konfliktmanagement;009981;2;05.09.13;06.09.13;09:00;16:00;550;0;0;0
+40040.0113.4;2013-40040;4;1;FIT! - Förderprogramm für Zukunftsträger im Firmenkundengeschäft - Projektmanagement;009981;2;11.11.13;12.11.13;09:00;16:00;550;0;0;0
+40040.0113.5;2013-40040;5;1;FIT! - Förderprogramm für Zukunftsträger im Firmenkundengeschäft -  Rhetorik & Präsentation;009981;2;27.01.14;28.01.14;09:00;16:00;550;0;0;0
+40078.0213.1;2013-40078;1;2;FreshUp Kreditsicherheiten im Firmenkundengeschäft;036978;2;07.11.13;08.11.13;09:00;16:00;480;0;0;0
+40100.0113.1;2013-40100;1;1;Kompetenznachweis Zertifizierter Interner Gutachter - Wohn- und Standardgewerbeimmobilien;197383;1;27.08.13;27.08.13;08:00;18:00;620;0;36,39;0
+40200.0113.1;2013-40200;1;1;Kompetenznachweis Zertifizierter Gewerbekundenberater;121930;1;28.10.13;28.10.13;08:00;17:00;530;0;0;0
+40200.0313.1;2013-40200;1;3;Kompetenznachweis Zertifizierter Gewerbekundenberater;036978;1;12.12.13;12.12.13;08:00;17:00;530;0;38,66;0
+40200.0413.1;2013-40200;1;4;Kompetenznachweis Zertifizierter Gewerbekundenberater;009981;1;13.12.13;13.12.13;08:00;17:00;530;0;37,94;0
+40200.0513.1;2013-40200;1;5;Kompetenznachweis Zertifizierter Gewerbekundenberater;187944;1;19.12.13;19.12.13;08:00;17:00;530;0;44,54;0
+40204.0213.1;2013-40204;1;2;Beratungs- und Verkaufsgespräche mit Gewerbekunden erfolgreich führen;009981;4;26.11.13;29.11.13;09:00;16:00;660;0;0;0
+40501.0113.1;2013-40501;1;1;Vertriebsunterstützung in der ganzheitlichen Firmenkundenbetreuung;006585;3;02.07.13;04.07.13;09:00;16:00;570;0;0;0
+40502.0113.1;2013-40502;1;1;Kontoservice und Zahlungsverkehr;006585;2;26.08.13;27.08.13;09:00;16:00;380;0;0;0
+40502.0213.1;2013-40502;1;2;Kontoservice und Zahlungsverkehr;174729;2;29.10.13;30.10.13;09:00;16:00;380;0;0;0
+40503.0213.1;2013-40503;1;2;Kreditantragsbearbeitung und Engagementbegleitung;174729;2;31.10.13;01.11.13;09:00;16:00;380;0;0;0
+40504.0113.1;2013-40504;1;1;Interne und externe Kommunikation erfolgreich gestalten;006585;2;31.10.13;01.11.13;09:00;16:00;380;0;0;0
+40504.0213.1;2013-40504;1;2;Interne und externe Kommunikation erfolgreich gestalten;158509;2;09.12.13;10.12.13;09:00;16:00;380;0;0;0
+41111.0613.1;2013-41111;1;6;Bonitätsprüfung bei Firmenkunden - Jahresabschluss und BWA (eLearning);121866;5;21.10.13;25.10.13;09:00;16:00;790;0;0;0
+41111.0713.1;2013-41111;1;7;Bonitätsprüfung bei Firmenkunden - Jahresabschluss und BWA (eLearning);036978;5;25.11.13;29.11.13;09:00;16:00;790;0;0;0
+41111.0813.1;2013-41111;1;8;Bonitätsprüfung bei Firmenkunden - Jahresabschluss und BWA (eLearning);009981;5;23.09.13;27.09.13;09:00;16:00;790;0;0;0
+41112.0513.1;2013-41112;1;5;Betriebswirtschaftliche Zusammenhänge im Unternehmen als Basis der Bonitätsanalyse (eLearning);121866;3;18.11.13;20.11.13;09:00;16:00;480;0;0;0
+41113.0513.1;2013-41113;1;5;Bonitätsprüfung bei Firmenkunden - Nichtbilanzierende Firmenkunden und VR-Rating (eLearning);009981;3;09.09.13;11.09.13;09:00;16:00;480;0;0;0
+41113.0613.1;2013-41113;1;6;Bonitätsprüfung bei Firmenkunden - Nichtbilanzierende Firmenkunden und VR-Rating (eLearning);121930;3;21.10.13;23.10.13;09:00;16:00;480;0;0;0
+41113.0713.1;2013-41113;1;7;Bonitätsprüfung bei Firmenkunden - Nichtbilanzierende Firmenkunden und VR-Rating (eLearning);163481;3;16.12.13;18.12.13;09:00;16:00;480;0;0;0
+41113.0813.1;2013-41113;1;8;Bonitätsprüfung bei Firmenkunden - Nichtbilanzierende Firmenkunden und VR-Rating (eLearning);009981;3;09.12.13;11.12.13;09:00;16:00;480;0;0;0
+41114.0413.1;2013-41114;1;4;Praxisgerechte Beurteilung und Bewertung gewerblicher Sicherheiten (eLearning);121866;4;10.09.13;13.09.13;09:00;16:00;620;0;0;0
+41114.0613.1;2013-41114;1;6;Praxisgerechte Beurteilung und Bewertung gewerblicher Sicherheiten (eLearning);009981;4;12.11.13;15.11.13;09:00;16:00;620;0;0;0
+41114.0713.1;2013-41114;1;7;Praxisgerechte Beurteilung und Bewertung gewerblicher Sicherheiten (eLearning);121930;4;09.12.13;12.12.13;09:00;16:00;620;0;0;0
+41115.0413.1;2013-41115;1;4;Komplexe Kreditentscheidungen unter Berücksichtigung interner und externer Rahmenbedingungen;121866;3;29.10.13;31.10.13;09:00;16:00;465;0;0;0
+41115.0513.1;2013-41115;1;5;Komplexe Kreditentscheidungen unter Berücksichtigung interner und externer Rahmenbedingungen;190629;3;18.11.13;20.11.13;09:00;16:00;465;0;0;0
+41115.0613.1;2013-41115;1;6;Komplexe Kreditentscheidungen unter Berücksichtigung interner und externer Rahmenbedingungen;009981;3;16.12.13;18.12.13;09:00;16:00;465;0;0;0
+42004.0113.1;2013-42004;1;1;Workshop - Erfolgreiche Neukundenakquisition \ im Firmenkundengeschäft;121862;2;16.10.13;17.10.13;09:00;16:00;640;0;0;0
+42020.0113.1;2013-42020;1;1;Fachtagung Landwirtschaftliche Beratung;184189;1,5;10.10.13;11.10.13;09:00;13:00;480;0;0;0
+42020.0213.1;2013-42020;1;2;Fachtagung Landwirtschaftliche Beratung;121862;1,5;21.10.13;22.10.13;09:00;13:00;480;0;0;0
+42020.0313.1;2013-42020;1;3;Fachtagung Landwirtschaftliche Beratung;121930;1,5;24.10.13;25.10.13;09:00;13:00;480;0;0;0
+42024.0213.1;2013-42024;1;2;Fachtagung Leiter/-in Firmenkundenbetreuung;171939;2;14.10.13;15.10.13;09:00;16:00;600;0;0;0
+42024.0413.1;2013-42024;1;4;Fachtagung Leiter/-in Firmenkundenbetreuung;158509;2;29.10.13;30.10.13;09:00;16:00;600;0;0;0
+42024.0513.1;2013-42024;1;5;Fachtagung Leiter/-in Firmenkundenbetreuung;178964;2;11.11.13;12.11.13;09:00;16:00;600;0;0;0
+42100.0413.1;2013-42100;1;4;Kompetenznachweis Firmenkundenberatung;009981;1;04.09.13;04.09.13;08:00;17:00;540;0;37,94;0
+42101.0413.1;2013-42101;1;4;Kundenorientierte Gesprächsführung in der Firmenkundenberatung;178964;5;09.12.13;13.12.13;09:00;16:00;890;0;0;0
+42200.0213.1;2013-42200;1;2;Kompetenznachweis Firmenkundenbetreuung;009986;1,5;07.03.13;08.03.13;12:00;17:00;690;0;0;0
+42200.0313.1;2013-42200;1;3;Kompetenznachweis Firmenkundenbetreuung;190629;1,5;04.11.13;05.11.13;12:00;17:00;690;0;0;0
+42201.0213.1;2013-42201;1;2;Betreuungsrelevante gesamtwirtschaftliche Zusammenhänge für das Firmenkundengeschäft;158509;2;21.10.13;22.10.13;09:00;16:00;320;0;0;0
+42202.0213.1;2013-42202;1;2;Existenzgründungsberatung (eLearning);178964;2;18.11.13;19.11.13;09:00;16:00;320;0;0;0
+42203.0213.1;2013-42203;1;2;Steuergünstige Gestaltung mittelständischer Unternehmen;178964;3;20.11.13;22.11.13;09:00;16:00;525;0;0;0
+42204.0213.1;2013-42204;1;2;Vermögensberatung und Absicherung \ im Firmenkundengeschäft;158509;3;23.10.13;25.10.13;09:00;16:00;480;0;0;0
+42205.0213.1;2013-42205;1;2;Betreuung von Firmenkunden bei der Unternehmensnachfolge;178964;4;04.11.13;07.11.13;09:00;16:00;700;0;0;0
+43015.0213.1;2013-43015;1;2;Fachtagung Leiter/-in Marktfolge Kredit;165152;2;07.10.13;08.10.13;09:00;16:00;640;0;0;0
+43015.0313.1;2013-43015;1;3;Fachtagung Leiter/-in Marktfolge Kredit;036978;2;21.10.13;22.10.13;09:00;16:00;640;0;0;0
+43015.0413.1;2013-43015;1;4;Fachtagung Leiter/-in Marktfolge Kredit;121930;2;30.10.13;31.10.13;09:00;16:00;640;0;0;0
+43015.0513.1;2013-43015;1;5;Fachtagung Leiter/-in Marktfolge Kredit;009981;2;04.11.13;05.11.13;09:00;16:00;640;0;0;0
+43015.0613.1;2013-43015;1;6;Fachtagung Leiter/-in Marktfolge Kredit;165088;2;13.11.13;14.11.13;09:00;16:00;640;0;0;0
+43015.0713.1;2013-43015;1;7;Fachtagung Leiter/-in Marktfolge Kredit;184189;2;25.11.13;26.11.13;09:00;16:00;640;0;0;0
+43025.0213.1;2013-43025;1;2;NHK 2010 und Sachwertrichtlinie in der Bankpraxis;181326;1;25.09.13;25.09.13;09:00;16:30;290;0;50;0
+43100.0413.1;2013-43100;1;4;Kompetenznachweis Firmenkreditsachbearbeitung;197383;1;03.09.13;03.09.13;08:00;17:00;550;0;36,39;0
+43101.0413.1;2013-43101;1;4;Als Marktfolgemitarbeiter erfolgreich kommunizieren;195736;3;02.12.13;04.12.13;09:00;16:00;600;0;0;0
+43200.0213.1;2013-43200;1;2;Kompetenznachweis Qualifizierte Firmenkreditsachbearbeitung;009981;1;03.12.13;03.12.13;08:00;17:30;560;0;37,94;0
+43200.0313.1;2013-43200;1;3;Kompetenznachweis Qualifizierte Firmenkreditsachbearbeitung;190629;1;04.12.13;04.12.13;08:00;17:30;560;0;39,5;0
+43201.0213.1;2013-43201;1;2;Konsolidierung von Jahresabschlüssen;121930;2;05.11.13;06.11.13;09:00;16:00;320;0;0;0
+43202.0213.1;2013-43202;1;2;Ausgewählte Fragen des Kreditvertrags- und Kreditsicherheitenrechts;036978;4;11.11.13;14.11.13;09:00;16:00;640;0;0;0
+44010.0313.1;2013-44010;1;3;Sanierung in der Insolvenz zur Vermeidung von Ausfällen;187062;2;07.10.13;08.10.13;09:00;16:00;630;0;0;0
+44100.0113.1;2013-44100;1;1;Kompetenznachweis Zertifizierte(r) Kreditspezialist/-in Sanierung;009981;1;25.11.13;25.11.13;08:00;17:00;650;0;37,94;0
+44103.0113.1;2013-44103;1;1;Sanierungsverhandlungen erfolgreich führen;009981;2;16.09.13;17.09.13;09:00;16:00;440;0;0;0
+45100.0113.1;2013-45100;1;1;Kompetenznachweis Zertifizierte(r) Kreditspezialist/-in Abwicklung;009981;1;25.11.13;25.11.13;08:00;17:00;630;0;37,94;0
+50001.0113.1;2013-50001;1;1;Fachtagung Assistenz und Sekretariat;103991;2;26.06.13;27.06.13;09:30;17:00;540;0;0;0
+50217.0213.1;2013-50217;1;2;Tune yourself! Frische Impulse für den überzeugenden Auftritt und mehr Gelassenheit;158509;1;18.09.13;18.09.13;09:00;17:00;305;0;52,94;0
+50219.0213.1;2013-50219;1;2;Führen ohne Vorgesetztenfunktion - Wie Sie die Balance zwischen Führungsposition und Kollegenstatus souverän meistern;178964;2;07.11.13;08.11.13;09:00;16:00;590;0;0;0
+50221.0313.1;2013-50221;1;3;Gestaltung besser beurteilen - sich sensibilisieren in Sachen Werbeträger;009981;2;10.10.13;11.10.13;09:00;17:00;495;0;0;0
+50224.0213.1;2013-50224;1;2;Flyer und Mailings texten und gestalten - Welches Mailing ist gut - und warum?;178964;1;29.08.13;29.08.13;09:00;17:00;295;0;44,54;0
+51001.0113.1;2013-51001;1;1;Fachtagung Rechnungswesen;121862;2;24.10.13;25.10.13;09:00;16:30;570;0;0;0
+51001.0313.1;2013-51001;1;3;Fachtagung Rechnungswesen;121866;2;04.11.13;05.11.13;09:00;16:30;570;0;0;0
+51001.0413.1;2013-51001;1;4;Fachtagung Rechnungswesen;121866;2;07.11.13;08.11.13;09:00;16:30;570;0;0;0
+51001.0513.1;2013-51001;1;5;Fachtagung Rechnungswesen;121930;2;11.11.13;12.11.13;09:00;16:00;570;0;0;0
+51001.0613.1;2013-51001;1;6;Fachtagung Rechnungswesen;121930;2;13.11.13;14.11.13;09:00;16:00;570;0;0;0
+51001.0713.1;2013-51001;1;7;Fachtagung Rechnungswesen;036978;2;18.11.13;19.11.13;09:00;16:30;570;0;0;0
+51001.0813.1;2013-51001;1;8;Fachtagung Rechnungswesen;184189;2;25.11.13;26.11.13;09:00;16:00;570;0;0;0
+51001.0913.1;2013-51001;1;9;Fachtagung Rechnungswesen;163481;2;27.11.13;28.11.13;09:00;16:00;570;0;0;0
+51001.1013.1;2013-51001;1;10;Fachtagung Rechnungswesen;171939;2;03.12.13;04.12.13;09:00;16:00;570;0;0;0
+51001.1113.1;2013-51001;1;11;Fachtagung Rechnungswesen;165152;2;05.12.13;06.12.13;09:00;16:00;570;0;0;0
+51001.1213.1;2013-51001;1;12;Fachtagung Rechnungswesen;009981;2;28.10.13;29.10.13;09:00;16:00;570;0;0;0
+51001.1413.1;2013-51001;1;14;Fachtagung Rechnungswesen;036978;2;20.11.13;21.11.13;09:00;16:00;570;0;0;0
+51008.0313.1;2013-51008;1;3;Die Betriebsprüfung - Ein Dialog zwischen Theorie und Praxis;181650;1;03.09.13;03.09.13;09:00;17:00;340;0;44,12;0
+51008.0413.1;2013-51008;1;4;Die Betriebsprüfung - Ein Dialog zwischen Theorie und Praxis;190629;1;05.09.13;05.09.13;09:00;17:00;340;0;39,5;0
+51023.0113.1;2013-51023;1;1;Verbuchung spezieller Geschäftsvorfälle;178964;2;09.09.13;10.09.13;09:00;16:30;540;0;0;0
+51023.0213.1;2013-51023;1;2;Verbuchung spezieller Geschäftsvorfälle;184189;2;16.09.13;17.09.13;09:00;16:30;540;0;0;0
+51023.0313.1;2013-51023;1;3;Verbuchung spezieller Geschäftsvorfälle;081178;2;23.09.13;24.09.13;09:00;16:30;540;0;0;0
+51026.0113.1;2013-51026;1;1;Workshop zur Solvabilitätsverordnung - Grundlagenseminar -;015431;1;11.11.13;11.11.13;09:00;16:30;360;0;53,78;0
+51026.0213.1;2013-51026;1;2;Workshop zur Solvabilitätsverordnung - Grundlagenseminar -;198206;1;20.11.13;20.11.13;09:00;16:30;360;0;42,86;0
+51026.0313.1;2013-51026;1;3;Workshop zur Solvabilitätsverordnung - Grundlagenseminar -;198206;1;18.11.13;18.11.13;09:00;16:30;360;0;42,86;0
+51040.0113.1;2013-51040;1;1;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;158509;1;17.10.13;17.10.13;09:00;16:30;385;0;52,94;0
+51040.0213.1;2013-51040;1;2;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;121866;1;21.10.13;21.10.13;09:00;16:30;385;0;43,7;0
+51040.0313.1;2013-51040;1;3;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;165152;1;22.10.13;22.10.13;09:00;16:30;385;0;38,15;0
+51040.0413.1;2013-51040;1;4;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;081179;1;23.10.13;23.10.13;09:00;16:30;385;0;45,38;0
+51040.0513.1;2013-51040;1;5;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;184189;1;24.10.13;24.10.13;09:00;16:30;385;0;50;0
+51040.0613.1;2013-51040;1;6;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;009981;1;25.10.13;25.10.13;09:00;16:30;385;0;0;0
+51040.0713.1;2013-51040;1;7;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;193121;1;28.10.13;28.10.13;09:00;16:30;385;0;42,86;0
+51040.0813.1;2013-51040;1;8;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;121866;1;29.10.13;29.10.13;09:00;16:30;385;0;43,7;0
+51040.0913.1;2013-51040;1;9;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;009981;1;30.10.13;30.10.13;09:00;16:30;385;0;37,94;0
+51040.1013.1;2013-51040;1;10;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;190629;1;31.10.13;31.10.13;09:00;16:30;385;0;39,5;0
+51040.1113.1;2013-51040;1;11;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;013743;1;04.11.13;04.11.13;09:00;16:30;385;0;46,22;0
+51040.1313.1;2013-51040;1;13;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;121930;1;07.11.13;07.11.13;09:00;16:30;385;0;0;0
+51040.1413.1;2013-51040;1;14;Die neuen CRR I/CRD IV- Vorschriften im Überblick für Projektverantwortliche;177041;1;08.11.13;08.11.13;09:00;16:30;385;0;50,42;0
+51041.0113.1;2013-51041;1;1;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;036978;1;29.10.13;29.10.13;09:00;16:30;365;0;38,66;0
+51041.0213.1;2013-51041;1;2;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;006242;1;05.11.13;05.11.13;09:00;16:30;365;0;42,86;0
+51041.0313.1;2013-51041;1;3;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;036978;1;06.11.13;06.11.13;09:00;16:30;365;0;38,66;0
+51041.0413.1;2013-51041;1;4;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;167640;1;07.11.13;07.11.13;09:00;16:30;365;0;53,78;0
+51041.0513.1;2013-51041;1;5;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;035499;1;08.11.13;08.11.13;09:00;16:30;365;0;36,13;0
+51041.0613.1;2013-51041;1;6;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;163481;1;11.11.13;11.11.13;09:00;16:30;365;0;38,07;0
+51041.0713.1;2013-51041;1;7;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;184189;1;12.11.13;12.11.13;09:00;16:30;365;0;50;0
+51041.0813.1;2013-51041;1;8;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;009981;1;13.11.13;13.11.13;09:00;16:30;365;0;0;0
+51041.0913.1;2013-51041;1;9;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;177041;1;14.11.13;14.11.13;09:00;16:30;365;0;50,42;0
+51041.1113.1;2013-51041;1;11;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;121930;1;18.11.13;18.11.13;09:00;16:30;365;0;0;0
+51041.1213.1;2013-51041;1;12;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;165152;1;19.11.13;19.11.13;09:00;16:30;365;0;38,15;0
+51041.1313.1;2013-51041;1;13;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;158509;1;20.11.13;20.11.13;09:00;16:30;365;0;52,94;0
+51041.1413.1;2013-51041;1;14;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;198206;1;21.11.13;21.11.13;09:00;16:30;365;0;42,86;0
+51041.1613.1;2013-51041;1;16;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;171939;1;25.11.13;25.11.13;09:00;16:30;365;0;50;0
+51041.1713.1;2013-51041;1;17;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;163481;1;26.11.13;26.11.13;09:00;16:30;365;0;38,07;0
+51041.1813.1;2013-51041;1;18;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;035499;1;27.11.13;27.11.13;09:00;16:30;365;0;36,13;0
+51041.1913.1;2013-51041;1;19;Workshop zu den neuen Eigenmittelanforderungen (CRR I/CRD IV), 1. Qualifizierungsmodul BASEL III;121866;1;28.11.13;28.11.13;09:00;16:30;365;0;43,7;0
+51042.0113.1;2013-51042;1;1;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;015739;1;21.10.13;21.10.13;09:00;16:30;365;0;43,7;0
+51042.0213.1;2013-51042;1;2;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;036978;1;24.10.13;24.10.13;09:00;16:30;365;0;38,66;0
+51042.0313.1;2013-51042;1;3;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;193121;1;25.10.13;25.10.13;09:00;16:30;365;0;42,86;0
+51042.0413.1;2013-51042;1;4;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;185431;1;28.10.13;28.10.13;09:00;16:30;365;0;47,9;0
+51042.0513.1;2013-51042;1;5;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;184189;1;29.10.13;29.10.13;09:00;16:30;365;0;50;0
+51042.0613.1;2013-51042;1;6;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;009981;1;30.10.13;30.10.13;09:00;16:30;365;0;37,94;0
+51042.0713.1;2013-51042;1;7;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;198206;1;31.10.13;31.10.13;09:00;16:30;365;0;42,86;0
+51042.0813.1;2013-51042;1;8;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;121862;1;01.11.13;01.11.13;09:00;16:30;365;0;46,22;0
+51042.0913.1;2013-51042;1;9;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;177041;1;04.11.13;04.11.13;09:00;16:30;365;0;50,42;0
+51042.1013.1;2013-51042;1;10;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;158509;1;05.11.13;05.11.13;09:00;16:30;365;0;52,94;0
+51042.1113.1;2013-51042;1;11;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;165274;1;06.11.13;06.11.13;09:00;16:30;365;0;40,34;0
+51042.1213.1;2013-51042;1;12;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;165152;1;07.11.13;07.11.13;09:00;16:30;365;0;38,15;0
+51042.1313.1;2013-51042;1;13;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;163481;1;08.11.13;08.11.13;09:00;16:30;365;0;38,07;0
+51042.1413.1;2013-51042;1;14;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;193121;1;11.11.13;11.11.13;09:00;16:30;365;0;42,86;0
+51042.1513.1;2013-51042;1;15;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;009981;1;12.11.13;12.11.13;09:00;16:30;365;0;37,94;0
+51042.1613.1;2013-51042;1;16;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;006242;1;13.11.13;13.11.13;09:00;16:30;365;0;42,86;0
+51042.1713.1;2013-51042;1;17;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;190629;1;14.11.13;14.11.13;09:00;16:30;365;0;39,5;0
+51042.1813.1;2013-51042;1;18;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;167640;1;15.11.13;15.11.13;09:00;16:30;365;0;53,78;0
+51042.1913.1;2013-51042;1;19;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;121866;1;18.11.13;18.11.13;09:00;16:30;365;0;43,7;0
+51042.2013.1;2013-51042;1;20;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;171939;1;19.11.13;19.11.13;09:00;16:30;365;0;50;0
+51042.2113.1;2013-51042;1;21;Workshop zum neuen Kreditmeldewesen (CRR I/CRD IV), 2. Qualifizierungsmodul BASEL III;009981;1;05.11.13;05.11.13;09:00;16:30;365;0;37,94;0
+51043.0113.1;2013-51043;1;1;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;193121;1;28.11.13;28.11.13;09:00;16:30;365;0;42,86;0
+51043.0213.1;2013-51043;1;2;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;190629;1;03.12.13;03.12.13;09:00;16:30;365;0;39,5;0
+51043.0313.1;2013-51043;1;3;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;009981;1;04.12.13;04.12.13;09:00;16:30;365;0;37,94;0
+51043.0413.1;2013-51043;1;4;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;171939;1;05.12.13;05.12.13;09:00;16:30;365;0;50;0
+51043.0513.1;2013-51043;1;5;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;163481;1;06.12.13;06.12.13;09:00;16:30;365;0;38,07;0
+51043.0613.1;2013-51043;1;6;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;185431;1;09.12.13;09.12.13;09:00;16:30;365;0;47,9;0
+51043.0713.1;2013-51043;1;7;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;184189;1;10.12.13;10.12.13;09:00;16:30;365;0;50;0
+51043.0813.1;2013-51043;1;8;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;009981;1;11.12.13;11.12.13;09:00;16:30;365;0;37,94;0
+51043.0913.1;2013-51043;1;9;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;036978;1;13.12.13;13.12.13;09:00;16:30;365;0;38,66;0
+51043.1013.1;2013-51043;1;10;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;198206;1;16.12.13;16.12.13;09:00;16:30;365;0;42,86;0
+51043.1113.1;2013-51043;1;11;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;177041;1;17.12.13;17.12.13;09:00;16:30;365;0;50,42;0
+51043.1213.1;2013-51043;1;12;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;158509;1;18.12.13;18.12.13;09:00;16:30;365;0;52,94;0
+51043.1313.1;2013-51043;1;13;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;121930;1;19.12.13;19.12.13;09:00;16:30;365;0;0;0
+51043.1413.1;2013-51043;1;14;Workshop zur Meldung von Finanzinformationen + Leverage Ratio, 3. Qualifizierungsmodul BASEL III;193121;1;12.12.13;12.12.13;09:00;16:30;365;0;42,86;0
+51044.0113.1;2013-51044;1;1;Workshop zur Liquidität (LCR und NSFR), (CRR I/CRD IV), 4. Qualifizierungsmodul BASEL III;015739;1;11.12.13;11.12.13;09:00;16:30;365;0;43,7;0
+51044.0213.1;2013-51044;1;2;Workshop zur Liquidität (LCR und NSFR), (CRR I/CRD IV), 4. Qualifizierungsmodul BASEL III;190629;1;17.12.13;17.12.13;09:00;16:30;365;0;39,5;0
+51044.0313.1;2013-51044;1;3;Workshop zur Liquidität (LCR und NSFR), (CRR I/CRD IV), 4. Qualifizierungsmodul BASEL III;193121;1;18.12.13;18.12.13;09:00;16:30;365;0;42,86;0
+51044.0413.1;2013-51044;1;4;Workshop zur Liquidität (LCR und NSFR), (CRR I/CRD IV), 4. Qualifizierungsmodul BASEL III;013743;1;19.12.13;19.12.13;09:00;16:30;365;0;46,22;0
+51100.0213.1;2013-51100;1;2;Kompetenznachweis Rechnungswesen;103991;1;08.05.13;08.05.13;08:00;18:00;595;0;0;0
+51102.0213.1;2013-51102;1;2;Jahresabschluss (eLearning);103991;8;27.02.13;08.03.13;09:00;16:00;1.280;0;0;0
+51103.0213.1;2013-51103;1;2;Betriebliche Steuern;103991;5;22.04.13;26.04.13;09:00;16:00;800;0;0;0
+51200.0113.1;2013-51200;1;1;Kompetenznachweis Steuerung Rechnungswesen;009981;1;14.11.13;14.11.13;08:00;18:00;595;0;37,94;0
+51201.0113.1;2013-51201;1;1;Vertiefung Jahresabschluss;009981;5;16.09.13;20.09.13;09:00;16:00;970;0;0;0
+51202.0113.1;2013-51202;1;1;Bilanzpolitik;178964;2;14.10.13;15.10.13;09:00;16:00;390;0;0;0
+51203.0113.1;2013-51203;1;1;Derivate beurteilen und bilanzieren;178964;3;16.10.13;18.10.13;09:00;16:00;630;0;0;0
+51301.0113.1;2013-51301;1;1;Programmeinführung: Aufbereitung von Jahresabschlüssen mit GenoBankBilanz;165274;2;03.09.13;04.09.13;09:00;16:30;660;0;0;0
+51301.0213.1;2013-51301;1;2;Programmeinführung: Aufbereitung von Jahresabschlüssen mit GenoBankBilanz;121866;2;11.09.13;12.09.13;09:00;16:30;660;0;0;0
+51302.0113.1;2013-51302;1;1;Praktische Jahresabschlusserstellung;165274;3;14.10.13;16.10.13;09:00;16:30;960;0;0;0
+51302.0213.1;2013-51302;1;2;Praktische Jahresabschlusserstellung;121861;3;21.10.13;23.10.13;09:00;16:30;960;0;0;0
+51302.0313.1;2013-51302;1;3;Praktische Jahresabschlusserstellung;184189;3;28.10.13;30.10.13;09:00;16:30;960;0;0;0
+51302.0413.1;2013-51302;1;4;Praktische Jahresabschlusserstellung;190629;3;04.11.13;06.11.13;09:00;16:30;960;0;0;0
+52001.0113.1;2013-52001;1;1;Fachtagung Interne Revision;187944;3;16.10.13;18.10.13;09:00;16:00;855;0;0;0
+52001.0213.1;2013-52001;1;2;Fachtagung Interne Revision;009981;3;23.10.13;25.10.13;09:00;16:00;855;0;0;0
+52001.0313.1;2013-52001;1;3;Fachtagung Interne Revision;165152;3;28.10.13;30.10.13;09:00;16:30;855;0;0;0
+52001.0413.1;2013-52001;1;4;Fachtagung Interne Revision;121930;3;04.11.13;06.11.13;09:00;16:30;855;0;0;0
+52001.0513.1;2013-52001;1;5;Fachtagung Interne Revision;178964;3;11.11.13;13.11.13;09:00;16:00;855;0;0;0
+52001.0613.1;2013-52001;1;6;Fachtagung Interne Revision;163481;3;13.11.13;15.11.13;09:00;16:30;855;0;0;0
+52001.0713.1;2013-52001;1;7;Fachtagung Interne Revision;171939;3;18.11.13;20.11.13;09:00;16:30;855;0;0;0
+52001.0813.1;2013-52001;1;8;Fachtagung Interne Revision;121930;3;25.11.13;27.11.13;09:00;16:00;855;0;0;0
+52001.0913.1;2013-52001;1;9;Fachtagung Interne Revision;177041;3;27.11.13;29.11.13;09:00;16:00;855;0;0;0
+52001.1013.1;2013-52001;1;10;Fachtagung Interne Revision;036978;3;02.12.13;04.12.13;09:00;16:00;855;0;0;0
+52001.1113.1;2013-52001;1;11;Fachtagung Interne Revision;121861;3;09.12.13;11.12.13;09:00;16:00;855;0;0;0
+52039.0213.1;2013-52039;1;2;Informationstagung IT-Recht für die Interne Revision;184189;2;08.07.13;09.07.13;09:00;16:00;590;0;0;0
+52039.0313.1;2013-52039;1;3;Informationstagung IT-Recht für die Interne Revision;158509;2;28.08.13;29.08.13;09:00;16:00;590;0;0;0
+52056.0113.1;2013-52056;1;1;Intensivworkshop Gesamtbanksteuerung für die Interne Revision;036978;1;18.11.13;18.11.13;09:00;16:30;335;0;38,66;0
+52056.0413.1;2013-52056;1;4;Intensivworkshop Gesamtbanksteuerung für die Interne Revision;184189;1;26.11.13;26.11.13;09:00;16:30;335;0;50;0
+52056.0513.1;2013-52056;1;5;Intensivworkshop Gesamtbanksteuerung für die Interne Revision;178964;1;03.12.13;03.12.13;09:00;16:30;335;0;0;0
+52060.0913.1;2013-52060;1;9;Neue Prüfungsansätze für die Kreditrevision;187944;2;16.09.13;17.09.13;09:00;16:00;590;0;0;0
+52065.0113.1;2013-52065;1;1;Risikoorientierte Kreditrevision;174729;2;25.09.13;26.09.13;09:00;16:30;570;0;0;0
+52073.0713.1;2013-52073;1;7;Neue Prüfungsansätze: Aktuelles Vertriebsrecht für die Revision;184189;2;03.09.13;04.09.13;09:00;16:00;590;0;0;0
+52088.0213.1;2013-52088;1;2;Intensivworkshop - Stressszenarien;009981;1;16.07.13;16.07.13;09:00;16:30;350;0;37,94;0
+52089.0813.1;2013-52089;1;8;MaRisk-konformes Auslagerungsmanagement;006585;1;08.07.13;08.07.13;09:00;16:10;365;0;54,62;0
+52090.0313.1;2013-52090;1;3;Workshop Wertpapierfachwissen für Revisoren;006585;2;23.09.13;24.09.13;09:30;16:00;495;0;0;0
+52100.0113.1;2013-52100;1;1;Kompetenznachweis Allgemeine Revision;103991;1;06.12.13;06.12.13;08:00;18:00;605;0;0;0
+52101.0213.1;2013-52101;1;2;Grundlagen der Prüfungstätigkeit;035499;5;04.03.13;08.03.13;09:00;16:00;900;0;0;0
+52102.0213.1;2013-52102;1;2;Prüffelder der allgemeinen Revision;103991;5;08.07.13;12.07.13;09:00;16:00;900;0;0;0
+52104.0113.1;2013-52104;1;1;Prüfung Rechnungswesen, Jahresabschluss, Steuern;009981;4;10.09.13;13.09.13;09:00;16:00;720;0;0;0
+52201.0113.1;2013-52201;1;1;Prüfung Depot B, Wertpapierdienstleistungs-, Vermittlungs- und Dienstleistungsgeschäft;009981;5;04.11.13;08.11.13;09:00;16:00;900;0;0;0
+52301.0113.1;2013-52301;1;1;Prüfung der EDV;178964;2;07.10.13;08.10.13;09:00;16:30;360;0;0;0
+52400.0113.1;2013-52400;1;1;Kompetenznachweis Kreditrevision;197383;1;05.12.13;05.12.13;08:00;18:00;605;0;36,39;0
+52401.0113.1;2013-52401;1;1;Systemprüfung im Kreditgeschäft;103991;3;11.06.13;13.06.13;09:00;16:00;615;0;0;0
+52402.0113.1;2013-52402;1;1;Prüfung von Einzelkreditengagements;178964;5;23.09.13;27.09.13;09:00;16:00;1.025;0;0;0
+52500.0113.1;2013-52500;1;1;Kompetenznachweis Steuerung Interne Revision;117990;1;12.12.13;12.12.13;08:00;18:00;580;0;0;0
+52502.0113.1;2013-52502;1;1;Prüfung der Unternehmenssteuerung inkl. Depot-A-Geschäft (eLearning);161337;5;16.09.13;20.09.13;09:00;16:00;1.175;0;0;0
+52504.0113.1;2013-52504;1;1;Prüfung Kreditrisikosteuerung (eLearning);009981;3;22.10.13;24.10.13;09:00;16:00;705;0;0;0
+52505.0113.1;2013-52505;1;1;Planung und Steuerung des Einsatzes der Internen Revision;178964;3;26.11.13;28.11.13;09:00;16:00;705;0;0;0
+53003.0113.1;2013-53003;1;1;2. Fachtagung Compliance 2013;178964;3;06.11.13;08.11.13;09:00;16:30;1.095;0;0;0
+53003.0213.1;2013-53003;1;2;2. Fachtagung Compliance 2013;009981;3;11.12.13;13.12.13;09:00;16:00;1.095;0;0;0
+53003.0313.1;2013-53003;1;3;2. Fachtagung Compliance 2013;015739;3;04.12.13;06.12.13;09:00;16:00;1.095;0;0;0
+53003.0413.1;2013-53003;1;4;2. Fachtagung Compliance 2013;184189;3;16.12.13;18.12.13;09:00;16:00;1.095;0;0;0
+53003.0513.1;2013-53003;1;5;2. Fachtagung Compliance 2013;018078;3;09.10.13;11.10.13;09:00;16:00;1.095;0;0;0
+53003.0613.1;2013-53003;1;6;2. Fachtagung Compliance 2013;121930;3;30.09.13;02.10.13;09:00;16:00;1.095;0;0;0
+53003.0713.1;2013-53003;1;7;2. Fachtagung Compliance 2013;199708;3;07.10.13;09.10.13;09:00;16:00;1.095;0;0;0
+53003.0813.1;2013-53003;1;8;2. Fachtagung Compliance 2013;190629;3;14.10.13;16.10.13;09:00;16:30;1.095;0;0;0
+53011.0313.1;2013-53011;1;3;Psychische Ersthelfer - Vertiefungsseminar;009981;1;23.09.13;23.09.13;09:00;17:00;315;0;37,94;0
+53022.0113.1;2013-53022;1;1;Workshop - Notfallplanung nach neuer Norm;171939;1;10.06.13;10.06.13;09:00;17:00;0;0;0;0
+53036.0113.1;2013-53036;1;1;Durchführung risikoorientierter Kontrollen  - ergänzende Aspekte aus der Tätigkeit des GwB/zentrale Stelle -;199078;2;12.11.13;13.11.13;09:00;16:30;610;0;0;0
+53036.0213.1;2013-53036;1;2;Durchführung risikoorientierter Kontrollen  - ergänzende Aspekte aus der Tätigkeit des GwB/zentrale Stelle -;198206;2;18.11.13;19.11.13;09:00;16:30;610;0;0;0
+53039.0513.1;2013-53039;1;5;Grundlagen für IT-Sicherheitsbeauftragte;009981;1;06.08.13;06.08.13;09:00;17:00;315;0;37,94;0
+53041.0113.1;2013-53041;1;1;Fachtagung Datenschutz und Datensicherheit;121862;2;05.09.13;06.09.13;09:00;16:30;650;0;0;0
+53041.0313.1;2013-53041;1;3;Fachtagung Datenschutz und Datensicherheit;121930;2;12.09.13;13.09.13;09:00;16:30;650;0;0;0
+53041.0413.1;2013-53041;1;4;Fachtagung Datenschutz und Datensicherheit;171939;2;16.09.13;17.09.13;09:00;16:30;650;0;0;0
+53041.0513.1;2013-53041;1;5;Fachtagung Datenschutz und Datensicherheit;036978;2;19.09.13;20.09.13;09:00;16:30;650;0;0;0
+53041.0613.1;2013-53041;1;6;Fachtagung Datenschutz und Datensicherheit;009981;2;26.09.13;27.09.13;09:00;16:30;650;0;0;0
+53041.0713.1;2013-53041;1;7;Fachtagung Datenschutz und Datensicherheit;187944;2;08.10.13;09.10.13;09:00;16:30;650;0;0;0
+53047.0213.1;2013-53047;1;2;Prävention und Aufdeckung von betrügerischen Handlungen;167676;1;15.10.13;15.10.13;09:00;16:30;325;0;43,7;0
+53047.0313.1;2013-53047;1;3;Prävention und Aufdeckung von betrügerischen Handlungen;121861;1;22.10.13;22.10.13;09:00;16:30;325;0;39,5;0
+53047.0413.1;2013-53047;1;4;Prävention und Aufdeckung von betrügerischen Handlungen;036978;1;05.11.13;05.11.13;09:00;16:30;325;0;38,66;0
+53048.0213.1;2013-53048;1;2;Typische Fraud- und Manipulationspraktiken im Bankgeschäft;167676;1;16.10.13;16.10.13;09:00;16:30;325;0;43,7;0
+53048.0313.1;2013-53048;1;3;Typische Fraud- und Manipulationspraktiken im Bankgeschäft;121861;1;23.10.13;23.10.13;09:00;16:30;325;0;39,5;0
+53048.0413.1;2013-53048;1;4;Typische Fraud- und Manipulationspraktiken im Bankgeschäft;036978;1;06.11.13;06.11.13;09:00;16:30;325;0;38,66;0
+53057.0213.1;2013-53057;1;2;Grundlagen Datenschutz;009981;1,5;29.08.13;30.08.13;09:00;13:00;465;0;0;0
+53063.0113.1;2013-53063;1;1;Erfahrungsaustausch für IT-Sicherheitsbeauftragte;006242;1;10.09.13;10.09.13;09:00;16:30;325;0;42,86;0
+53063.0313.1;2013-53063;1;3;Erfahrungsaustausch für IT-Sicherheitsbeauftragte;121930;1;24.09.13;24.09.13;09:00;16:30;325;0;0;0
+53063.0413.1;2013-53063;1;4;Erfahrungsaustausch für IT-Sicherheitsbeauftragte;184189;1;02.10.13;02.10.13;09:00;16:30;325;0;50;0
+53069.0113.1;2013-53069;1;1;Workshop SEPA-Umsetzung in der VR-Bank;199742;2;06.08.13;07.08.13;09:00;16:30;620;0;0;0
+53081.0113.1;2013-53081;1;1;Erfahrungsaustausch für "Zertifizierte Zahlungsverkehrsexperten";198206;1;13.12.13;13.12.13;09:30;16:30;355;0;42,86;0
+54005.0213.1;2013-54005;1;2;Excel und Access für Controller;121862;2;03.09.13;04.09.13;09:00;17:00;560;0;0;0
+54006.0113.1;2013-54006;1;1;Excel und Access für Controller - Erweiterte Funktionen und Programmierung;178665;2;15.10.13;16.10.13;09:00;17:00;560;0;0;0
+54050.0313.1;2013-54050;1;3;Berücksichtigung von impliziten Optionen in der Banksteuerung;035499;1;01.10.13;01.10.13;09:00;17:00;360;0;36,13;0
+54050.0413.1;2013-54050;1;4;Berücksichtigung von impliziten Optionen in der Banksteuerung;006585;1;02.10.13;02.10.13;09:00;17:00;360;0;54,62;0
+54067.0213.1;2013-54067;1;2;Bankaufsichtsrecht: Spezialfragen der Banksteuerung im Kontext des Aufsichtsrechts;178964;1;28.10.13;28.10.13;09:00;16:00;305;0;44,54;0
+54084.0113.1;2013-54084;1;1;Neue Konjunktur- und Zinssignale für die operative Jahresplanung 2014;081177;1;15.10.13;15.10.13;09:00;16:30;320;0;52,1;0
+54084.0213.1;2013-54084;1;2;Neue Konjunktur- und Zinssignale für die operative Jahresplanung 2014;199078;1;16.10.13;16.10.13;09:00;16:30;320;0;47,06;0
+54084.0313.1;2013-54084;1;3;Neue Konjunktur- und Zinssignale für die operative  Jahresplanung 2014;121862;1;21.10.13;21.10.13;09:00;16:30;320;0;46,22;0
+54084.0413.1;2013-54084;1;4;Neue Konjunktur- und Zinssignale für die \ operative Jahresplanung 2014;121930;1;22.10.13;22.10.13;09:00;16:30;320;0;40,34;0
+54085.0113.1;2013-54085;1;1;Workshop Vertriebsplanung und- steuerung 2014 im Zeichen von AnsFuG und Beratungsqualität;009981;1;09.09.13;09.09.13;09:00;16:30;280;0;37,94;0
+54085.0213.1;2013-54085;1;2;Workshop Vertriebsplanung und- steuerung 2014 im Zeichen von AnsFuG und Beratungsqualität;171939;1;24.09.13;24.09.13;09:00;16:30;280;0;50;0
+54085.0313.1;2013-54085;1;3;Workshop Vertriebsplanung und- steuerung 2014 im Zeichen von AnsFuG und Beratungsqualität;158509;1;27.09.13;27.09.13;09:00;16:30;280;0;52,94;0
+54087.0113.1;2013-54087;1;1;Planungsworkshop 2014 unter Berücksichtigung des BVR Kompass und des Musterrisikohandbuchs;158509;1;08.10.13;08.10.13;09:00;16:30;280;0;52,94;0
+54087.0313.1;2013-54087;1;3;Planungsworkshop 2014 unter Berücksichtigung des BVR Kompass und des Musterrisikohandbuchs;009981;1;10.10.13;10.10.13;09:00;16:30;280;0;37,94;0
+54088.0113.1;2013-54088;1;1;Anforderungen an Risikotragfähigkeitskonzepte gemäß DGRV- Muster-Risikohandbuch und deren \ Umsetzung in VR-Control 5.7;198206;1;22.10.13;22.10.13;09:00;16:30;335;0;42,86;0
+54088.0213.1;2013-54088;1;2;Anforderungen an Risikotragfähigkeitskonzepte gemäß DGRV- Muster-Risikohandbuch und deren \ Umsetzung in VR-Control 5.7;165152;1;24.10.13;24.10.13;09:00;16:30;335;0;38,15;0
+54088.0313.1;2013-54088;1;3;Anforderungen an Risikotragfähigkeitskonzepte gemäß DGRV- Muster-Risikohandbuch und deren Umsetzung in VR-Control 5.7;036978;1;07.11.13;07.11.13;09:00;16:30;335;0;38,66;0
+54088.0413.1;2013-54088;1;4;Anforderungen an Risikotragfähigkeitskonzepte gemäß DGRV- Muster-Risikohandbuch und deren Umsetzung in VR-Control 5.7;009981;1;12.11.13;12.11.13;09:00;16:30;335;0;37,94;0
+54088.0513.1;2013-54088;1;5;Anforderungen an Risikotragfähigkeitskonzepte gemäß DGRV- Muster-Risikohandbuch und deren Umsetzung in VR-Control 5.7;203722;1;19.11.13;19.11.13;09:00;16:30;335;0;47,06;0
+54088.0613.1;2013-54088;1;6;Anforderungen an Risikotragfähigkeitskonzepte gemäß DGRV- Muster-Risikohandbuch und deren Umsetzung in VR-Control 5.7;203351;1;18.11.13;18.11.13;09:00;16:30;335;0;55,46;0
+54089.0113.1;2013-54089;1;1;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;185431;1;07.10.13;07.10.13;09:00;17:00;365;0;47,9;0
+54089.0213.1;2013-54089;1;2;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;081177;1;09.10.13;09.10.13;09:00;17:00;365;0;52,1;0
+54089.0313.1;2013-54089;1;3;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;158509;1;14.10.13;14.10.13;09:00;17:00;365;0;52,94;0
+54089.0413.1;2013-54089;1;4;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;165274;1;17.10.13;17.10.13;09:00;17:00;365;0;40,34;0
+54089.0513.1;2013-54089;1;5;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;165152;1;23.10.13;23.10.13;09:00;17:00;365;0;38,15;0
+54089.0613.1;2013-54089;1;6;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;198206;1;21.10.13;21.10.13;09:00;17:00;365;0;42,86;0
+54089.0713.1;2013-54089;1;7;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;199078;1;29.10.13;29.10.13;09:00;17:00;365;0;47,06;0
+54089.0813.1;2013-54089;1;8;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;036978;1;31.10.13;31.10.13;09:00;17:00;365;0;38,66;0
+54089.0913.1;2013-54089;1;9;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;121866;1;04.11.13;04.11.13;09:00;17:00;365;0;43,7;0
+54089.1013.1;2013-54089;1;10;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;009981;1;11.11.13;11.11.13;09:00;17:00;365;0;37,94;0
+54089.1313.1;2013-54089;1;13;MaRisk 5.0 Umsetzung der aufsichtsrechtlichen Neuerungen;193121;1;28.10.13;28.10.13;09:00;17:00;365;0;42,86;0
+54099.0113.1;2013-54099;1;1;Praxisworkshop KPM-EG;158509;1;23.09.13;23.09.13;09:00;16:30;425;0;52,94;0
+54099.0213.1;2013-54099;1;2;Praxisworkshop KPM-EG;009981;1;07.10.13;07.10.13;09:00;16:30;425;0;37,94;0
+54099.0313.1;2013-54099;1;3;Praxisworkshop KPM-EG;184189;1;08.10.13;08.10.13;09:00;16:30;425;0;50;0
+54099.0413.1;2013-54099;1;4;Praxisworkshop KPM-EG;036978;1;14.10.13;14.10.13;09:00;16:30;425;0;38,66;0
+54100.0213.1;2013-54100;1;2;Kompetenznachweis Controlling;117990;1;13.06.13;13.06.13;08:00;18:00;595;0;0;0
+54101.0213.1;2013-54101;1;2;Finanzmathematik;117990;3;25.02.13;27.02.13;09:00;16:00;585;0;0;0
+54102.0213.1;2013-54102;1;2;Steuerungskonzept VR-Control und Kunden- geschäftssteuerung (eLearning);117990;5;18.03.13;22.03.13;09:00;16:00;965;0;0;0
+54103.0213.1;2013-54103;1;2;Gesamtbanksteuerung;117990;3;24.04.13;26.04.13;09:00;16:00;585;0;0;0
+54104.0213.1;2013-54104;1;2;Vertriebscontrolling;117990;2;22.04.13;23.04.13;09:00;16:00;390;0;0;0
+54200.0113.1;2013-54200;1;1;Kompetenznachweis Steuerung Controlling;009981;1;13.12.13;13.12.13;08:00;18:00;595;0;37,94;0
+54201.0113.1;2013-54201;1;1;Steuerung Marktpreisrisiken;177041;5;09.09.13;13.09.13;09:00;16:00;1.040;0;0;0
+54202.0113.1;2013-54202;1;1;Steuerung Adressrisiken;117990;3;04.11.13;06.11.13;09:00;16:00;630;0;0;0
+54203.0413.1;2013-54203;1;4;Grundlagen zu bankaufsichtsrechtlichen Anforderungen;009981;3;04.09.13;06.09.13;09:00;16:00;630;0;0;0
+54204.0113.1;2013-54204;1;1;Integrierte Ertrags- und Risikosteuerung;117990;2;07.11.13;08.11.13;09:00;16:00;420;0;0;0
+55014.0213.1;2013-55014;1;2;Fachtagung Administration/IT-Organisation;175557;3;23.04.13;25.04.13;10:00;16:00;897;0;0;0
+55061.0513.1;2013-55061;1;5;Einführung BeratungsqualitätÍ Erfolgsfaktoren und praktisches Vorgehensmodell;174729;2;26.08.13;27.08.13;09:00;16:30;660;0;0;0
+55100.0113.1;2013-55100;1;1;Kompetenznachweis Betriebsorganisation;117990;1;04.06.13;04.06.13;08:00;18:00;595;0;0;0
+55101.0113.1;2013-55101;1;1;Grundlagen der Organisation (eLearning);117990;5;21.01.13;25.01.13;09:00;16:00;1.075;0;0;0
+55200.0113.1;2013-55200;1;1;Kompetenznachweis Steuerung Betriebsorganisation;197383;1;03.12.13;03.12.13;08:00;18:00;595;0;36,39;0
+55201.0113.1;2013-55201;1;1;Organisationsentwicklung;103991;3;10.09.13;12.09.13;09:00;16:00;645;0;0;0
+55202.0113.1;2013-55202;1;1;Kreditorganisation;178964;3;07.10.13;09.10.13;09:00;16:00;645;0;0;0
+55203.0113.1;2013-55203;1;1;Projekt- und Veränderungsmanagement (eLearning);103991;4;11.11.13;14.11.13;09:00;16:00;860;0;0;0
+55204.0113.1;2013-55204;1;1;Personalmanagement;178964;2;10.10.13;11.10.13;09:00;16:00;430;0;0;0
+55205.0113.1;2013-55205;1;1;Qualitätsmanagement;103991;2;19.09.13;20.09.13;09:00;16:00;430;0;0;0
+55600.0113.1;2013-55600;1;1;Kompetenznachweis Zertifizierter Informationssicherheitsmanager (IS-Manager);009981;0,5;12.12.13;12.12.13;08:00;12:00;395;0;33,4;0
+55601.0113.1;2013-55601;1;1;Anforderungen an die Informationssicherheit;035499;3;18.11.13;20.11.13;09:00;16:30;990;0;0;0
+55602.0113.1;2013-55602;1;1;Gestaltungsfelder der Informationssicherheit;009981;3;09.12.13;11.12.13;09:00;16:30;990;0;0;0
+56044.0213.1;2013-56044;1;2;Recht für Vertrieb im Internet;174729;1;30.09.13;30.09.13;09:00;17:00;340;0;52,1;0
+56045.0213.1;2013-56045;1;2;Social Media - Achtung bei facebook & Co.;174729;1;01.10.13;01.10.13;09:00;16:00;340;0;52,1;0
+56100.0113.1;2013-56100;1;1;Kompetenznachweis Marketing-/Vertriebsassistenz;009981;1;18.11.13;18.11.13;08:00;18:00;580;0;37,94;0
+56104.0113.1;2013-56104;1;1;Kommunikationspolitik;161337;5;17.06.13;21.06.13;09:00;16:00;950;0;0;0
+56107.0113.1;2013-56107;1;1;Rhetorik und Präsentationstechniken;117990;2;06.05.13;07.05.13;09:00;16:00;380;0;0;0
+57007.0113.1;2013-57007;1;1;Fachtagung Electronic Banking;158509;2;03.09.13;04.09.13;10:00;16:40;640;0;0;0
+57007.0213.1;2013-57007;1;2;Fachtagung Electronic Banking;121866;2;05.09.13;06.09.13;10:00;16:40;640;0;0;0
+57007.0313.1;2013-57007;1;3;Fachtagung Electronic Banking;193121;2;10.09.13;11.09.13;10:00;16:40;640;0;0;0
+57007.0413.1;2013-57007;1;4;Fachtagung Electronic Banking;184189;2;15.10.13;16.10.13;10:00;16:40;640;0;0;0
+57007.0513.1;2013-57007;1;5;Fachtagung Electronic Banking;009981;2;24.09.13;25.09.13;10:00;16:40;640;0;0;0
+57014.0213.1;2013-57014;1;2;webErfolg für Professionals;006585;1;05.11.13;05.11.13;09:00;17:00;320;0;54,62;0
+57014.0313.1;2013-57014;1;3;webErfolg für Professionals;158509;1;11.11.13;11.11.13;09:00;17:00;320;0;52,94;0
+57200.0313.1;2013-57200;1;3;Kompetenznachweis (Zertifizierter webManager);035499;1;02.12.13;02.12.13;09:00;20:00;595;0;36,13;0
+57201.0113.1;2013-57201;1;1;IT- und Multimedia-Recht;035499;1,5;28.10.13;29.10.13;13:00;17:00;420;0;0;0
+57202.0113.1;2013-57202;1;1;Social Media und Online-Marketing;035499;2;28.08.13;29.08.13;09:00;17:00;560;0;0;0
+57203.0113.1;2013-57203;1;1;Internet als Vertriebsweg und Mobile-Marketing;035499;2;09.09.13;10.09.13;09:00;17:00;560;0;0;0
+57204.0113.1;2013-57204;1;1;Operatives Vertriebswegemanagement und Trendtag;009981;2;25.09.13;26.09.13;09:00;17:00;560;0;0;0
+58027.0313.1;2013-58027;1;3;Ganzheitliches Gesundheitsmanagement Í Wege zum gesunden Unternehmen;174729;1;12.11.13;12.11.13;09:00;17:00;0;0;52,1;0
+58028.0513.1;2013-58028;1;5;Betriebsratswahlen 2014;184189;1;03.12.13;03.12.13;09:00;17:00;295;0;50;0
+58200.0113.1;2013-58200;1;1;Kompetenznachweis Personalentwicklung;009981;1;06.12.13;06.12.13;08:00;18:00;650;0;37,94;0
+58201.0113.1;2013-58201;1;1;Rahmen und Perspektiven im Personalmanagement;103991;2;23.09.13;24.09.13;09:00;17:00;490;0;0;0
+58202.0113.1;2013-58202;1;1;Personalplanung und Arbeitsrecht;103991;3;25.09.13;27.09.13;09:00;16:00;735;0;0;0
+58203.0113.1;2013-58203;1;1;Strategieorientierte Personalentwicklung;009981;3;04.11.13;06.11.13;09:00;16:00;735;0;0;0
+58204.0113.1;2013-58204;1;1;Personalbeurteilungssysteme;009981;3;07.11.13;09.11.13;09:00;16:00;735;0;0;0
+58205.0113.1;2013-58205;1;1;Personalmarketing und Personalauswahl;009981;4;02.12.13;05.12.13;09:00;16:00;980;0;0;0
+58300.0113.1;2013-58300;1;1;Kompetenznachweis Personalbetreuung;117990;1;29.05.13;29.05.13;08:00;18:00;650;0;0;0
+58301.0113.1;2013-58301;1;1;Der Personalbetreuer: Tätigkeitsfelder und arbeitsrechtliche Rahmenbedingungen;117990;4;04.03.13;07.03.13;09:00;16:00;980;0;0;0
+58304.0113.1;2013-58304;1;1;Grundlagen des Sozialversicherungsrechts;161337;2;27.05.13;28.05.13;09:00;16:00;490;0;0;0
+61040.0113.1;2013-61040;1;1;Motivierung von Mitarbeitern - Wie halte ich die Antriebsfeder auf Spannung?;009981;1;13.11.13;13.11.13;09:00;17:00;230;0;37,94;0
+61049.0413.1;2013-61049;1;4;Psychologie für Führungskräfte und Personaler;193121;2;05.12.13;06.12.13;09:00;16:00;890;0;0;0
+61063.0313.1;2013-61063;1;3;Teams entwickeln und steuern;036978;3;25.09.13;27.09.13;09:00;16:00;645;0;0;0
+61063.0413.1;2013-61063;1;4;Teams entwickeln und steuern;184189;3;11.11.13;13.11.13;09:00;16:00;645;0;0;0
+61064.0413.1;2013-61064;1;4;Ganzheitliches Selbst- und Zeitmanagement;184189;2;10.10.13;11.10.13;09:00;16:00;430;0;0;0
+61100.0913.1;2013-61100;1;9;Kompetenznachweis Selbst- und Mitarbeitermanagement;187944;1;17.09.13;17.09.13;08:00;18:00;615;0;44,54;0
+61102.0413.3;2013-61102;3;4;Selbst- und Mitarbeitermanagement (eLearning);187944;4;27.08.13;30.08.13;09:00;16:00;920;0;0;0
+61102.0513.1;2013-61102;1;5;Selbst- und Mitarbeitermanagement (eLearning);121930;5;19.08.13;23.08.13;09:00;16:00;1.150;0;0;0
+61102.0513.2;2013-61102;2;5;Selbst- und Mitarbeitermanagement (eLearning);121930;5;21.10.13;25.10.13;09:00;16:00;1.150;0;0;0
+61102.0513.3;2013-61102;3;5;Selbst- und Mitarbeitermanagement (eLearning);121930;4;10.12.13;13.12.13;09:00;16:00;920;0;0;0
+61102.0613.1;2013-61102;1;6;Selbst- und Mitarbeitermanagement (eLearning);198206;5;02.09.13;06.09.13;09:00;16:00;1.150;0;0;0
+61102.0613.2;2013-61102;2;6;Selbst- und Mitarbeitermanagement (eLearning);198206;5;04.11.13;08.11.13;09:00;16:00;1.150;0;0;0
+61102.0613.3;2013-61102;3;6;Selbst- und Mitarbeitermanagement (eLearning);178964;4;14.01.14;17.01.14;09:00;16:00;920;0;0;0
+61102.0713.1;2013-61102;1;7;Selbst- und Mitarbeitermanagement (eLearning);190629;5;14.10.13;18.10.13;09:00;16:00;1.150;0;0;0
+61102.0713.2;2013-61102;2;7;Selbst- und Mitarbeitermanagement (eLearning);036978;5;02.12.13;06.12.13;09:00;16:00;1.150;0;0;0
+61102.0713.3;2013-61102;3;7;Selbst- und Mitarbeitermanagement (eLearning);036978;4;21.01.14;24.01.14;09:00;16:00;920;0;0;0
+61200.0113.1;2013-61200;1;1;Zertifizierung "Führung in Genossenschaftsbanken";121866;1;16.08.13;16.08.13;08:00;16:30;395;0;43,7;0
+61200.0313.1;2013-61200;1;3;Zertifizierung "Führung in Genossenschaftsbanken";187944;1;07.11.13;07.11.13;08:00;18:00;395;0;44,54;0
+61201.0313.1;2013-61201;1;3;Sich selbst und Mitarbeiter führen (eLearning);187944;3;08.10.13;10.10.13;09:00;16:00;645;0;0;0
+61201.0313.2;2013-61201;2;3;Sich selbst und Mitarbeiter führen (eLearning);184189;3;04.11.13;06.11.13;09:00;16:00;645;0;0;0
+62100.0413.1;2013-62100;1;4;Kompetenznachweis Strategie-, Ertrags- und Vertriebsmanagement;121866;1,5;05.09.13;06.09.13;07:40;14:00;870;0;0;0
+62101.0213.1;2013-62101;1;2;Strategie-, Ertrags- und Vertriebsmanagement: Strategien und Veränderungsprozesse (eLearning);036978;10;19.08.13;30.08.13;09:00;16:00;2.200;0;0;0
+62101.0313.1;2013-62101;1;3;Strategie-, Ertrags- und Vertriebsmanagement: Strategien und Veränderungsprozesse (eLearning);121930;10;09.09.13;20.09.13;09:00;16:00;2.200;0;0;0
+62102.0313.1;2013-62102;1;3;Strategie-, Ertrags- und Vertriebsmanagement: Ertragsorientiertes Bankmanagement (eLearning);190629;8;21.10.13;30.10.13;09:00;16:00;1.760;0;0;0
+62102.0413.1;2013-62102;1;4;Strategie-, Ertrags- und Vertriebsmanagement: Ertragsorientiertes Bankmanagement (eLearning);121930;8;04.11.13;13.11.13;09:00;16:00;1.760;0;0;0
+62103.0313.1;2013-62103;1;3;Strategie-, Ertrags- und Vertriebsmanagement: Vertriebssteuerung und Beziehungsmanagement (eLearning);121861;6;12.08.13;17.08.13;09:00;16:00;1.320;0;0;0
+62103.0413.1;2013-62103;1;4;Strategie-, Ertrags- und Vertriebsmanagement: Vertriebssteuerung und Beziehungsmanagement (eLearning);036978;6;09.12.13;14.12.13;09:00;16:00;1.320;0;0;0
+62110.0113.1;2013-62110;1;1;Strategie-, Ertrags- und Vertriebsmanagement Spezial BankColleg (eLearning);009981;10,5;18.11.13;29.11.13;09:00;16:00;3.255;0;0;0
+62350.0113.1;2013-62350;1;1;MGB network 2013;009986;1;26.04.13;27.04.13;12:00;12:30;94,2;0;0;0
+64104.0413.1;2013-64104;1;4;Erfolgreich präsentieren und moderieren;121930;3;21.08.13;23.08.13;09:00;16:00;645;0;0;0
+64104.0513.1;2013-64104;1;5;Erfolgreich präsentieren und moderieren;198206;3;02.09.13;04.09.13;09:00;16:00;645;0;0;0
+65013.0113.1;2013-65013;1;1;VorstandsSpezial: Knappe Ressourcen richtig einsetzen - die "Einfache Bank";199078;2;01.07.13;02.07.13;09:00;16:00;895;0;0;0
+65013.0213.1;2013-65013;1;2;VorstandsSpezial: Knappe Ressourcen richtig einsetzen - die "Einfache Bank";184189;2;16.07.13;17.07.13;09:00;16:00;895;0;0;0
+65013.0313.1;2013-65013;1;3;VorstandsSpezial: Knappe Ressourcen richtig einsetzen - die "Einfache Bank";158509;2;12.08.13;13.08.13;09:00;16:00;895;0;0;0
+65015.0113.1;2013-65015;1;1;VorstandsSpezial-Workshop: Erfolgreiches Management für das Depot A - Risiken erkannt und Chancen genutzt?;167676;2;16.09.13;17.09.13;09:00;16:00;690;0;0;0
+65015.0313.1;2013-65015;1;3;VorstandsSpezial-Workshop: Erfolgreiches Management für das Depot A - Risiken erkannt und Chancen genutzt?;201596;2;15.10.13;16.10.13;09:00;16:00;690;0;0;0
+65016.0113.1;2013-65016;1;1;VorstandsSpezial Workshop zur Gesamtbanksteuerung;121861;2,5;30.09.13;02.10.13;08:40;14:00;990;0;0;0
+65017.0113.1;2013-65017;1;1;VorstandsSpezial: Reorganisation des Zahlungs- verkehrs als strategisches Geschäftsfeld;158509;1;21.10.13;21.10.13;10:00;16:30;415;0;52,94;0
+65017.0213.1;2013-65017;1;2;VorstandsSpezial: Reorganisation des Zahlungs- verkehrs als strategisches Geschäftsfeld;013743;1;04.11.13;04.11.13;10:00;16:30;415;0;46,22;0
+65017.0313.1;2013-65017;1;3;VorstandsSpezial: Reorganisation des Zahlungs- verkehrs als strategisches Geschäftsfeld;171939;1;09.12.13;09.12.13;10:00;16:30;415;0;50;0
+66005.0213.1;2013-66005;1;2;VertriebsPass I: Basisqualifikation für Vertriebsbeauftragte mit strategischen Aufgaben;009981;1;28.10.13;28.10.13;09:00;17:00;375;0;37,94;0
+66006.0213.1;2013-66006;1;2;Upgrade VertriebsPass II: Basisqualifikation für Vertriebsbeauftragte mit überwiegend operativen Aufgaben;009981;1;29.10.13;29.10.13;09:00;17:00;275;0;37,94;0
+66010.0213.1;2013-66010;1;2;Finanzinstrumente Kompakt für VertriebsPass I (Teil 2);009981;3;29.10.13;31.10.13;09:00;16:00;795;0;0;0
+66010.0213.2;2013-66010;2;2;Finanzinstrumente Kompakt für VertriebsPass I (Teil 2);009981;4;11.11.13;14.11.13;09:00;16:00;1.060;0;0;0
+68511.0313.1;2013-68511;1;3;Schlagfertigkeit im Verkauf;121862;1;11.10.13;11.10.13;09:00;17:00;275;0;46,22;0
+80101.0213.1;2013-80101;1;2;Rechnungswesen - Grundlagen für Auszubildende im 2. Ausbildungsjahr;104277;5;28.10.13;01.11.13;09:00;16:00;425;0;0;0
+80103.0313.1;2013-80103;1;3;Warenkunde für Auszubildende und junge Mitarbeiter im Agrarhandel;101676;5;02.12.13;06.12.13;09:00;16:00;495;0;0;0
+80106.0213.1;2013-80106;1;2;Prüfungsvorbereitung für Auszubildende zur Fachkraft Lagerlogistik;104277;5;04.11.13;08.11.13;08:30;17:00;495;0;0;0
+80112.0413.1;2013-80112;1;4;IHK-Prüfungsvorbereitungsseminar Groß- und Außenhandel - Teil 1 (1. Ausbildungsjahr);009981;5;02.12.13;06.12.13;08:00;16:00;330;0;0;0
+80114.0113.1;2013-80114;1;1;IHK-Prüfungsvorbereitungsseminar Groß- und Außenhandel - Teil 3 (3. Ausbildungsjahr);009981;5;09.09.13;13.09.13;08:00;16:00;330;0;0;0
+80114.0213.1;2013-80114;1;2;IHK-Prüfungsvorbereitungsseminar Groß- und Außenhandel - Teil 3 (3. Ausbildungsjahr);009981;5;16.09.13;20.09.13;08:00;16:00;330;0;0;0
+81002.0113.1;2013-81002;1;1;Workshop für Handelsfachwirte und Führungsnachwuchskräfte;117989;2;11.11.13;12.11.13;09:10;16:00;290;0;0;0
+81104.0113.1;2013-81104;1;1;Warenkunde für Auszubildende und junge Mitarbeiter/-innen im Baustoffhandel;117989;2;28.11.13;29.11.13;09:00;16:00;260;0;0;0
+81104.0113.2;2013-81104;2;1;Warenkunde für Auszubildende und junge Mitarbeiter/-innen im Baustoffhandel;117989;4;06.01.14;09.01.14;09:00;16:00;520;0;0;0
+81301.0113.1;2013-81301;1;1;Geprüfte Bilanzbuchhalterin/Geprüfter Bilanzbuchhalter (IHK);102559;1;08.11.13;08.11.13;09:00;16:00;5.250;0;0;0
+81410.0113.1;2013-81410;1;1;Fachberater im Vertrieb - Fundierte Vertriebsausbildung für Mitarbeiter im Innen- und Außendienst;009981;10;04.11.13;15.11.13;09:00;16:00;1.260;0;0;0
+81410.0113.2;2013-81410;2;1;Fachberater im Vertrieb - Fundierte Vertriebsausbildung für Mitarbeiter im Innen- und Außendienst;009981;10;03.02.14;14.02.14;09:00;16:00;1.260;0;0;0
+81411.0113.1;2013-81411;1;1;Fachberater im Vertrieb - Update;009981;2;07.11.13;08.11.13;09:00;17:00;520;0;0;0
+82023.0113.1;2013-82023;1;1;Controlling: Steuerungsmittel und Entscheidungshilfe Erkenntnisse - Ergebnisse - Schlussfolgerungen;117989;2;26.11.13;27.11.13;09:00;16:00;590;0;0;0
+82100.0113.1;2013-82100;1;1;Das 1 x 1 des Saatguthandels Gemeinschaftsseminar GenoAkademie/DRV;169929;2;27.11.13;28.11.13;09:00;17:10;500;0;0;0
+82107.0113.1;2013-82107;1;1;Tierernährung und Futtermittelkunde kompakt Basics für den Einsteiger;169929;3;25.11.13;27.11.13;09:00;17:00;360;0;0;0
+82107.0113.2;2013-82107;2;1;Tierernährung und Futtermittelkunde kompakt Basics für den Einsteiger;169929;3;13.01.14;15.01.14;09:00;17:00;360;0;0;0
+82113.0113.1;2013-82113;1;1;Das Futtermittelrecht für Heimtierfuttermittelverkauf und -hersteller - Basics für den Einsteiger;009981;1;10.10.13;10.10.13;09:00;17:00;270;0;37,94;0
+82114.0213.1;2013-82114;1;2;Das Futtermittelrecht - Nutztier - Basics für den Einsteiger;197383;1;14.11.13;14.11.13;09:00;17:00;270;0;36,39;0
+82115.0213.1;2013-82115;1;2;Futtermittelrecht update - Nutztier - Neues für den Praktiker;009981;1;09.10.13;09.10.13;09:00;17:00;270;0;37,94;0
+82202.0313.1;2013-82202;1;3;Informationstagung für leitende Mitarbeiter im Rechnungswesen;003126;1,5;12.11.13;13.11.13;09:30;13:30;345;0;0;0
+82203.0213.1;2013-82203;1;2;Vorbereitung auf die umfassende Sachkunde nach õ 5 ChemVerbotV;117989;3,5;30.10.13;02.11.13;09:00;15:00;577,5;0;0;0
+82204.0213.1;2013-82204;1;2;Pflanzenschutz-Sachkundenachweis für Abgeber nach õ 23 PflSchG;117989;3;28.10.13;30.10.13;09:00;15:00;285;0;0;0
+82243.0113.1;2013-82243;1;1;Sicherer Betrieb von LKW-Ladekranen;202506;1,5;14.10.13;15.10.13;08:30;13:00;339;0;0;0
+82243.0213.1;2013-82243;1;2;Sicherer Betrieb von LKW-Ladekranen;202506;1,5;09.12.13;10.12.13;08:30;13:00;339;0;0;0
+82249.0113.1;2013-82249;1;1;Tägliche Herausforderung in Logistik und Spedition - Juristische Fallstricke erkennen und vermeiden;036978;2;11.12.13;12.12.13;10:00;15:00;590;0;0;0
+82271.0113.1;2013-82271;1;1;Vertragsgestaltung und -abwicklung für Praktiker im Getreide- und Futtermittelhandel;009981;1,5;26.11.13;27.11.13;10:00;15:00;465;0;0;0
+82352.0313.1;2013-82352;1;3;Moderne Kundenkommunikation Í mit CRM beim Kunden landen;197383;1;25.09.13;25.09.13;09:30;17:00;275;0;36,39;0
+82401.0113.1;2013-82401;1;1;Futtermittelherstellung - Technischer Workshop (Schulung für das Qualitätsmanagementsystem);032626;2;24.09.13;25.09.13;09:30;16:00;430;0;0;0
+83016.0113.1;2013-83016;1;1;Der Geschäftsführer der "GmbH oder GmbH & Co KG" - Aufgaben - Rechte - Pflichten - Haftung;197383;1;31.10.13;31.10.13;09:30;17:00;245;0;31,85;0
+89141.0213.1;2013-89141;1;2;Genossenschaftsrecht - Mitgliederverwaltung in Genossenschaften;185431;1;15.10.13;15.10.13;09:00;16:30;265;0;47,9;0
+94001.0313.1;2013-94001;1;3;Neues Mitglied im Aufsichtsrat - Auftrag, Rechte und Pflichten des Aufsichtsrates;006585;1;25.10.13;26.10.13;13:00;12:00;375;0;0;0
+94010.0513.1;2013-94010;1;5;Aufsichtsratspraxis: Risikomanagement & Internes Kontrollsystem;009981;1;18.10.13;18.10.13;09:00;16:30;375;0;0;0
+94011.0513.1;2013-94011;1;5;Aufsichtsratspraxis: Grundzüge der Bankbilanzierung;009981;1,1;11.10.13;12.10.13;12:00;13:00;375;0;0;0
+94021.0213.1;2013-94021;1;2;Aufsichtsräte - Chancen und Risiken bei \ Eigenanlagen Ihrer Bank;158509;0,5;18.10.13;18.10.13;13:00;17:00;295;0;44,54;0
+94021.0313.1;2013-94021;1;3;Aufsichtsräte - Chancen und Risiken bei Eigenanlagen Ihrer Bank;032755;0,5;22.11.13;22.11.13;13:00;17:00;295;0;42,86;0
+97001.0113.1;2013-97001;1;1;Eröffnung Winterschulung;204618;1;05.11.13;05.11.13;10:00;15:00;0;0;50;0
+97001.0213.1;2013-97001;1;2;Eröffnung Winterschulung;204631;1;06.11.13;06.11.13;10:00;15:00;0;0;50;0
